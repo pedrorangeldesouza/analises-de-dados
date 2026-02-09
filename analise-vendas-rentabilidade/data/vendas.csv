@@ -1,0 +1,1001 @@
+Pedido_ID,Data,Produto,Categoria,Subcategoria,Regiao,Cidade,Cliente,Quantidade,Preco,Custo,Modo_Envio
+P00001,2024-04-11,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_215,8,2103.33,1255.28,Expresso
+P00002,2023-12-10,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_294,8,2285.09,1295.47,Padrão
+P00003,2024-04-19,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_59,6,44.59,24.83,Expresso
+P00004,2024-05-19,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_131,14,714.86,503.46,Econômico
+P00005,2023-01-14,Agenda,Escritório,Agenda,Sudeste,São Paulo,Cliente_242,7,66.16,55.09,Padrão
+P00006,2024-03-03,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_264,4,858.77,648.35,Expresso
+P00007,2024-07-19,Caneta,Escritório,Caneta,Sudeste,Rio de Janeiro,Cliente_106,8,2648.66,1794.59,Padrão
+P00008,2023-09-27,Teclado,Tecnologia,Teclado,Sul,Porto Alegre,Cliente_271,12,3289.46,2692.25,Padrão
+P00009,2023-02-22,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_280,5,1372.6,866.66,Padrão
+P00010,2023-03-06,Monitor,Tecnologia,Monitor,Centro-Oeste,Goiânia,Cliente_9,13,510.42,403.57,Econômico
+P00011,2024-01-14,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_261,1,2495.47,1964.07,Padrão
+P00012,2023-02-17,Caneta,Escritório,Caneta,Sudeste,Belo Horizonte,Cliente_62,9,2189.08,1421.3,Econômico
+P00013,2024-10-04,Caneta,Escritório,Caneta,Nordeste,Fortaleza,Cliente_257,1,1352.59,1138.22,Econômico
+P00014,2024-07-07,Armário,Móveis,Armário,Nordeste,Recife,Cliente_179,7,160.71,122.65,Expresso
+P00015,2024-10-16,Suporte,Acessórios,Suporte,Sudeste,São Paulo,Cliente_171,4,3178.33,1985.78,Econômico
+P00016,2024-11-12,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_45,11,2437.85,1984.75,Padrão
+P00017,2023-11-27,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_128,12,780.17,526.58,Padrão
+P00018,2024-09-24,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_116,1,967.02,719.76,Econômico
+P00019,2023-08-13,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_234,8,1878.63,1306.49,Expresso
+P00020,2024-05-11,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_52,8,2466.51,1625.65,Padrão
+P00021,2023-04-23,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_2,5,1011.24,567.38,Padrão
+P00022,2023-02-22,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_172,1,2227.54,1680.04,Padrão
+P00023,2024-02-05,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_255,4,301.37,199.17,Padrão
+P00024,2023-05-24,Mochila,Acessórios,Mochila,Centro-Oeste,Goiânia,Cliente_97,6,1407.91,1119.19,Econômico
+P00025,2024-02-07,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_147,13,3007.09,1947.95,Expresso
+P00026,2024-04-17,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_151,2,2935.23,2209.37,Expresso
+P00027,2024-07-25,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_2,12,628.84,531.15,Econômico
+P00028,2023-08-21,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_99,5,3091.57,1875.39,Expresso
+P00029,2024-08-09,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_113,6,2733.97,2030.27,Padrão
+P00030,2023-12-04,Fone,Acessórios,Fone,Nordeste,Recife,Cliente_194,9,2328.99,1284.48,Padrão
+P00031,2024-05-18,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_135,4,845.63,547.64,Expresso
+P00032,2024-10-31,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_38,3,2234.44,1396.83,Padrão
+P00033,2024-08-31,Teclado,Tecnologia,Teclado,Sul,Porto Alegre,Cliente_284,11,1531.69,1003.29,Expresso
+P00034,2024-05-26,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_17,3,2010.57,1569.39,Padrão
+P00035,2023-12-15,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_181,3,2622.06,2191.84,Expresso
+P00036,2023-09-13,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_128,13,1360.14,1095.38,Padrão
+P00037,2024-09-17,Mouse,Tecnologia,Mouse,Nordeste,Recife,Cliente_288,10,3256.46,1859.84,Expresso
+P00038,2023-04-14,Armário,Móveis,Armário,Sul,Curitiba,Cliente_299,11,1047.61,677.56,Padrão
+P00039,2024-02-12,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_13,7,1480.84,928.28,Padrão
+P00040,2024-02-04,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_142,4,2281.87,1735.57,Expresso
+P00041,2023-02-20,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_153,2,1545.89,1161.9,Padrão
+P00042,2024-11-12,Caneta,Escritório,Caneta,Sudeste,Rio de Janeiro,Cliente_271,10,3014.21,1884.11,Padrão
+P00043,2023-07-15,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_262,12,771.06,568.17,Econômico
+P00044,2024-01-05,Fone,Acessórios,Fone,Nordeste,Fortaleza,Cliente_124,7,501.47,295.78,Padrão
+P00045,2024-04-18,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_117,3,1547.62,887.62,Padrão
+P00046,2023-04-06,Agenda,Escritório,Agenda,Sudeste,São Paulo,Cliente_126,1,623.06,371.93,Padrão
+P00047,2024-12-04,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_69,5,2241.18,1580.05,Padrão
+P00048,2023-08-08,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_69,3,2657.3,1472.99,Expresso
+P00049,2024-04-18,Mouse,Tecnologia,Mouse,Sul,Porto Alegre,Cliente_39,4,630.15,349.83,Econômico
+P00050,2023-06-29,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_223,10,2163.16,1601.88,Padrão
+P00051,2023-01-16,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_280,1,1897.03,1432.62,Expresso
+P00052,2024-11-05,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_33,11,2807.3,2114.32,Econômico
+P00053,2023-02-12,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_44,12,1363.64,1143.22,Econômico
+P00054,2024-12-27,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_90,2,155.59,114.43,Econômico
+P00055,2024-05-15,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_114,2,927.22,647.95,Econômico
+P00056,2024-01-29,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_192,9,2816.11,1787.13,Expresso
+P00057,2024-10-24,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_190,2,890.06,644.55,Econômico
+P00058,2023-09-30,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_62,7,2645.81,1537.05,Econômico
+P00059,2023-03-17,Cadeira,Móveis,Cadeira,Nordeste,Fortaleza,Cliente_265,1,206.13,172.65,Expresso
+P00060,2023-04-09,Fone,Acessórios,Fone,Nordeste,Fortaleza,Cliente_25,10,2218.79,1518.84,Expresso
+P00061,2023-07-05,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_223,9,414.86,344.03,Padrão
+P00062,2023-01-09,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_74,11,2476.29,2081.56,Padrão
+P00063,2024-01-28,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_283,7,1502.8,926.89,Padrão
+P00064,2023-12-08,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_145,6,3453.51,2287.19,Expresso
+P00065,2023-07-01,Papel A4,Escritório,Papel A4,Sudeste,Rio de Janeiro,Cliente_167,12,310.58,243.23,Expresso
+P00066,2023-08-08,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_126,14,1734.34,959.79,Padrão
+P00067,2023-07-09,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_191,7,2616.24,1896.8,Econômico
+P00068,2024-11-02,Monitor,Tecnologia,Monitor,Sudeste,Rio de Janeiro,Cliente_173,5,3372.01,1866.9,Econômico
+P00069,2023-08-15,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_147,5,3475.52,1988.48,Econômico
+P00070,2024-07-19,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_259,14,1044.84,886.81,Expresso
+P00071,2024-01-08,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_8,8,1392.94,810.73,Padrão
+P00072,2023-02-10,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_228,12,2051.12,1175.95,Expresso
+P00073,2024-07-11,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_35,1,1451.0,1060.44,Econômico
+P00074,2023-08-30,Mesa,Móveis,Mesa,Nordeste,Salvador,Cliente_251,9,1475.49,1224.39,Econômico
+P00075,2023-06-26,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_267,6,2840.73,2403.77,Econômico
+P00076,2024-09-01,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_105,11,2950.57,2364.88,Expresso
+P00077,2024-10-06,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_259,6,2427.17,1724.03,Econômico
+P00078,2023-03-19,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_1,10,2976.77,1858.11,Expresso
+P00079,2023-12-14,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_95,1,2357.52,1733.81,Expresso
+P00080,2023-02-23,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_236,6,2913.17,1871.23,Econômico
+P00081,2023-07-26,Mesa,Móveis,Mesa,Nordeste,Salvador,Cliente_229,1,486.37,271.7,Econômico
+P00082,2023-11-02,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_98,7,494.57,274.17,Padrão
+P00083,2023-12-01,Armário,Móveis,Armário,Nordeste,Fortaleza,Cliente_30,2,1231.93,867.52,Expresso
+P00084,2023-11-26,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_273,13,531.82,440.33,Econômico
+P00085,2023-04-21,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_249,13,747.78,541.31,Expresso
+P00086,2023-10-08,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_195,8,646.63,490.76,Expresso
+P00087,2023-01-05,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_92,13,689.17,387.49,Padrão
+P00088,2023-02-15,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_34,1,1879.79,1234.64,Econômico
+P00089,2023-08-02,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_239,9,341.17,236.89,Padrão
+P00090,2024-09-16,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_253,1,983.53,778.82,Expresso
+P00091,2023-08-04,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_154,14,2171.53,1434.67,Padrão
+P00092,2023-10-01,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_294,7,1800.64,1277.79,Expresso
+P00093,2023-09-30,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_231,7,1332.95,741.15,Padrão
+P00094,2024-01-29,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_67,1,1213.39,839.89,Econômico
+P00095,2024-01-04,Mouse,Tecnologia,Mouse,Nordeste,Fortaleza,Cliente_236,6,2062.21,1595.39,Expresso
+P00096,2023-11-11,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_229,4,2267.79,1635.61,Econômico
+P00097,2023-12-16,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_95,6,1291.44,899.29,Expresso
+P00098,2023-01-06,Teclado,Tecnologia,Teclado,Nordeste,Fortaleza,Cliente_220,8,2445.43,2076.6,Expresso
+P00099,2024-07-27,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_194,1,1727.81,1325.0,Expresso
+P00100,2024-12-24,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_225,12,733.67,616.57,Econômico
+P00101,2023-05-19,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_259,14,1024.43,742.07,Econômico
+P00102,2023-01-13,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_168,5,240.54,203.74,Padrão
+P00103,2024-07-03,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_94,9,2665.59,1942.4,Expresso
+P00104,2024-04-03,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_137,12,1441.64,1196.39,Padrão
+P00105,2023-12-15,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_267,8,2531.16,1428.66,Econômico
+P00106,2024-01-14,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_78,3,591.64,469.99,Padrão
+P00107,2024-09-07,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_14,9,2396.78,1643.19,Expresso
+P00108,2024-05-17,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_104,1,828.1,678.94,Expresso
+P00109,2024-03-23,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_15,3,2204.42,1433.92,Expresso
+P00110,2024-03-16,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_97,7,2014.56,1710.99,Econômico
+P00111,2024-05-31,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_123,14,731.82,559.27,Padrão
+P00112,2023-01-15,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_157,4,1610.36,1177.48,Econômico
+P00113,2023-10-19,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_282,13,2525.73,1874.96,Expresso
+P00114,2024-12-12,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_23,14,3181.41,2306.58,Expresso
+P00115,2024-09-14,Mesa,Móveis,Mesa,Nordeste,Recife,Cliente_104,13,504.12,292.51,Expresso
+P00116,2024-01-13,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_51,8,2286.76,1786.81,Econômico
+P00117,2023-12-12,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_110,7,447.38,277.72,Padrão
+P00118,2024-10-22,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_137,6,1825.56,1327.88,Padrão
+P00119,2024-08-24,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_75,9,417.65,281.64,Padrão
+P00120,2023-06-28,Armário,Móveis,Armário,Sul,Curitiba,Cliente_182,2,3216.22,2335.36,Econômico
+P00121,2024-10-27,Caneta,Escritório,Caneta,Sudeste,São Paulo,Cliente_156,1,2736.13,1732.72,Padrão
+P00122,2023-12-08,Notebook,Tecnologia,Notebook,Nordeste,Salvador,Cliente_63,4,1617.28,1159.9,Econômico
+P00123,2024-12-23,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_32,13,1402.67,951.06,Padrão
+P00124,2024-08-12,Notebook,Tecnologia,Notebook,Sudeste,São Paulo,Cliente_175,14,2931.25,2128.78,Padrão
+P00125,2024-10-05,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_264,2,1749.6,1364.0,Econômico
+P00126,2023-03-28,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_55,10,3143.06,2225.2,Padrão
+P00127,2024-03-18,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_255,9,792.46,490.79,Econômico
+P00128,2023-09-21,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_291,5,641.34,478.32,Padrão
+P00129,2023-01-07,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_263,6,733.35,467.83,Econômico
+P00130,2024-05-28,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_197,3,2048.98,1385.99,Expresso
+P00131,2023-09-13,Armário,Móveis,Armário,Sul,Curitiba,Cliente_222,7,139.11,111.18,Econômico
+P00132,2024-08-15,Cadeira,Móveis,Cadeira,Centro-Oeste,Brasília,Cliente_202,4,3411.42,2674.31,Padrão
+P00133,2024-06-04,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_40,1,1707.03,1201.3,Padrão
+P00134,2024-10-27,Notebook,Tecnologia,Notebook,Nordeste,Salvador,Cliente_29,6,2264.79,1532.15,Econômico
+P00135,2023-12-22,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_41,6,3201.76,1874.07,Padrão
+P00136,2023-12-08,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_27,6,2907.5,1779.18,Econômico
+P00137,2024-11-15,Caneta,Escritório,Caneta,Nordeste,Recife,Cliente_190,12,2223.18,1552.41,Padrão
+P00138,2024-01-06,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_282,11,661.61,381.82,Econômico
+P00139,2023-08-15,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_98,4,2522.28,1612.08,Expresso
+P00140,2023-05-28,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_227,8,767.99,429.58,Expresso
+P00141,2024-05-15,Mouse,Tecnologia,Mouse,Nordeste,Salvador,Cliente_73,11,1183.17,924.38,Econômico
+P00142,2023-02-08,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_291,13,2415.64,1643.72,Expresso
+P00143,2023-10-02,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_101,3,967.07,703.12,Expresso
+P00144,2023-01-12,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_80,10,2423.15,1711.69,Expresso
+P00145,2023-07-19,Suporte,Acessórios,Suporte,Sudeste,São Paulo,Cliente_25,7,2539.88,1882.48,Padrão
+P00146,2023-10-15,Monitor,Tecnologia,Monitor,Nordeste,Fortaleza,Cliente_266,10,199.55,149.86,Expresso
+P00147,2024-09-20,Teclado,Tecnologia,Teclado,Sul,Curitiba,Cliente_7,6,3205.9,1795.89,Econômico
+P00148,2024-02-06,Caneta,Escritório,Caneta,Nordeste,Fortaleza,Cliente_103,13,1670.27,1350.6,Econômico
+P00149,2023-06-20,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_183,12,439.57,251.91,Expresso
+P00150,2024-12-22,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_161,4,2771.72,1789.49,Econômico
+P00151,2023-05-21,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_274,3,3047.94,1695.82,Expresso
+P00152,2023-09-02,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_236,13,2689.82,1803.73,Econômico
+P00153,2024-01-24,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_65,14,1473.83,996.91,Padrão
+P00154,2023-10-20,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_153,8,1019.59,651.41,Econômico
+P00155,2023-07-06,Mouse,Tecnologia,Mouse,Nordeste,Salvador,Cliente_293,1,1382.87,812.2,Econômico
+P00156,2023-01-11,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_62,7,3079.33,2566.38,Econômico
+P00157,2023-08-31,Cadeira,Móveis,Cadeira,Nordeste,Fortaleza,Cliente_107,8,3300.71,2458.68,Padrão
+P00158,2023-02-23,Mouse,Tecnologia,Mouse,Sudeste,São Paulo,Cliente_47,10,2732.95,1790.19,Expresso
+P00159,2024-11-20,Notebook,Tecnologia,Notebook,Nordeste,Recife,Cliente_62,1,625.16,418.15,Econômico
+P00160,2023-03-30,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_68,6,2187.82,1694.17,Padrão
+P00161,2024-10-10,Mouse,Tecnologia,Mouse,Nordeste,Salvador,Cliente_195,8,944.29,556.05,Econômico
+P00162,2023-08-14,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_124,8,3261.93,2513.53,Expresso
+P00163,2024-08-15,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_114,2,302.04,186.07,Econômico
+P00164,2023-02-09,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_237,10,2008.19,1503.4,Econômico
+P00165,2024-11-11,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_269,12,2980.02,2414.38,Expresso
+P00166,2023-01-07,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_133,4,2172.77,1685.67,Expresso
+P00167,2024-03-12,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_158,7,37.91,30.17,Expresso
+P00168,2023-08-12,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_13,14,2653.09,1665.1,Padrão
+P00169,2023-12-31,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_163,8,924.12,684.03,Padrão
+P00170,2024-07-25,Caneta,Escritório,Caneta,Nordeste,Recife,Cliente_222,9,3371.21,2199.92,Econômico
+P00171,2023-01-17,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_12,4,256.07,163.96,Padrão
+P00172,2023-11-02,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_270,6,2180.79,1229.36,Expresso
+P00173,2023-01-29,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_33,3,2088.5,1389.03,Padrão
+P00174,2024-03-05,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_226,11,2397.87,1639.59,Econômico
+P00175,2023-06-06,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_75,9,589.41,464.72,Padrão
+P00176,2024-03-15,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_92,11,970.94,810.99,Econômico
+P00177,2024-03-28,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_257,11,3376.53,2627.04,Padrão
+P00178,2024-06-07,Fone,Acessórios,Fone,Nordeste,Recife,Cliente_274,13,717.25,581.29,Expresso
+P00179,2024-06-03,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_79,14,728.88,420.82,Expresso
+P00180,2024-06-19,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_46,3,2792.86,1782.54,Expresso
+P00181,2024-06-04,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_166,1,2133.43,1331.82,Econômico
+P00182,2024-01-30,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_64,5,956.1,754.62,Econômico
+P00183,2024-08-29,Monitor,Tecnologia,Monitor,Sudeste,Rio de Janeiro,Cliente_166,14,1385.88,961.77,Expresso
+P00184,2023-03-29,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_41,9,157.87,109.59,Econômico
+P00185,2024-12-14,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_242,6,2171.18,1651.7,Econômico
+P00186,2024-10-27,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_103,13,307.13,244.89,Padrão
+P00187,2024-03-03,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_123,10,2806.04,1711.81,Padrão
+P00188,2024-11-20,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_84,9,2487.53,2018.11,Padrão
+P00189,2023-11-10,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_22,11,3133.96,2238.52,Padrão
+P00190,2023-01-12,Agenda,Escritório,Agenda,Nordeste,Salvador,Cliente_87,12,2565.93,1474.1,Econômico
+P00191,2024-09-22,Notebook,Tecnologia,Notebook,Nordeste,Recife,Cliente_183,3,3416.01,2224.06,Expresso
+P00192,2023-02-28,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_131,3,815.02,691.87,Padrão
+P00193,2023-11-28,Agenda,Escritório,Agenda,Sudeste,São Paulo,Cliente_213,6,126.67,79.46,Expresso
+P00194,2024-06-15,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_152,5,1223.85,809.35,Padrão
+P00195,2024-07-31,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_262,4,122.29,81.77,Expresso
+P00196,2024-06-13,Armário,Móveis,Armário,Nordeste,Recife,Cliente_40,6,1269.85,844.64,Econômico
+P00197,2023-10-25,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_14,8,1430.48,1045.05,Padrão
+P00198,2024-01-16,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_111,6,1733.13,1081.76,Padrão
+P00199,2023-01-28,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_66,7,589.06,393.1,Expresso
+P00200,2023-10-30,Notebook,Tecnologia,Notebook,Nordeste,Salvador,Cliente_287,8,2103.52,1407.25,Expresso
+P00201,2023-12-27,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_257,10,1581.75,1187.6,Econômico
+P00202,2023-05-01,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_107,9,601.31,360.96,Econômico
+P00203,2023-06-05,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_207,1,2957.71,2341.62,Padrão
+P00204,2023-01-20,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_282,14,218.66,155.11,Econômico
+P00205,2024-11-21,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_206,5,3269.89,2108.58,Padrão
+P00206,2023-11-02,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_285,11,37.19,31.07,Econômico
+P00207,2023-05-31,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_126,11,1721.19,1290.99,Econômico
+P00208,2024-10-30,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_5,7,585.09,354.86,Expresso
+P00209,2024-02-18,Armário,Móveis,Armário,Sul,Curitiba,Cliente_114,7,3425.64,2268.76,Padrão
+P00210,2023-12-11,Mouse,Tecnologia,Mouse,Centro-Oeste,Brasília,Cliente_289,8,2694.45,1573.38,Econômico
+P00211,2023-08-08,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_192,5,2341.06,1692.95,Padrão
+P00212,2024-08-11,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_159,9,3050.22,2393.56,Econômico
+P00213,2024-04-26,Caneta,Escritório,Caneta,Sudeste,Rio de Janeiro,Cliente_82,14,3241.35,2208.82,Econômico
+P00214,2024-03-30,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_89,11,1327.34,848.25,Econômico
+P00215,2024-08-27,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_224,7,1980.77,1315.48,Econômico
+P00216,2023-01-03,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_85,3,606.19,450.26,Padrão
+P00217,2023-05-13,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_293,5,2851.91,1661.74,Expresso
+P00218,2024-03-02,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_21,6,2619.13,2002.71,Expresso
+P00219,2024-12-15,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_51,5,3145.15,1959.57,Expresso
+P00220,2024-01-08,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_52,3,372.94,259.48,Padrão
+P00221,2024-10-19,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_2,8,1103.35,808.87,Econômico
+P00222,2024-08-08,Monitor,Tecnologia,Monitor,Sul,Curitiba,Cliente_39,14,650.4,490.62,Econômico
+P00223,2023-03-25,Agenda,Escritório,Agenda,Nordeste,Salvador,Cliente_263,10,664.59,548.51,Padrão
+P00224,2023-04-28,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_277,10,410.82,226.27,Padrão
+P00225,2024-11-12,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_72,10,628.21,413.51,Econômico
+P00226,2023-07-21,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_146,8,2882.7,1951.94,Expresso
+P00227,2023-04-18,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_226,2,552.38,342.79,Econômico
+P00228,2023-06-09,Papel A4,Escritório,Papel A4,Sudeste,Rio de Janeiro,Cliente_11,5,2254.06,1650.26,Padrão
+P00229,2023-09-20,Mouse,Tecnologia,Mouse,Sudeste,São Paulo,Cliente_85,9,1748.75,1480.03,Padrão
+P00230,2023-10-07,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_188,7,2541.32,1409.79,Padrão
+P00231,2023-12-19,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_164,7,2708.73,1705.06,Expresso
+P00232,2024-07-14,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_130,6,1255.39,716.61,Econômico
+P00233,2024-01-16,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_58,8,3082.68,2297.4,Expresso
+P00234,2023-12-20,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_286,12,2323.2,1666.51,Padrão
+P00235,2023-11-07,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_208,13,2229.66,1731.22,Padrão
+P00236,2024-05-29,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_144,12,1229.55,921.51,Padrão
+P00237,2023-09-05,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_121,8,89.69,69.17,Padrão
+P00238,2024-04-04,Monitor,Tecnologia,Monitor,Sul,Porto Alegre,Cliente_38,2,2761.9,2235.5,Padrão
+P00239,2023-12-07,Mouse,Tecnologia,Mouse,Centro-Oeste,Brasília,Cliente_258,7,935.63,615.68,Expresso
+P00240,2023-07-15,Notebook,Tecnologia,Notebook,Sudeste,Belo Horizonte,Cliente_262,3,1401.5,958.85,Expresso
+P00241,2023-08-27,Armário,Móveis,Armário,Nordeste,Recife,Cliente_49,12,2982.96,1827.22,Padrão
+P00242,2023-05-14,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_67,14,3075.35,2492.32,Expresso
+P00243,2024-04-10,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_206,5,99.67,59.42,Padrão
+P00244,2023-04-05,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_270,9,1688.15,1087.37,Econômico
+P00245,2023-01-25,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_141,4,1768.93,1184.47,Econômico
+P00246,2023-01-12,Cadeira,Móveis,Cadeira,Sul,Porto Alegre,Cliente_288,9,829.28,476.0,Econômico
+P00247,2023-02-12,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_254,13,387.71,287.78,Padrão
+P00248,2023-12-11,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_130,3,1984.25,1205.5,Padrão
+P00249,2023-04-09,Caneta,Escritório,Caneta,Sudeste,Belo Horizonte,Cliente_149,8,1054.8,716.31,Econômico
+P00250,2023-09-17,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_260,7,2428.72,1381.18,Expresso
+P00251,2023-05-04,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_231,12,1085.76,800.39,Padrão
+P00252,2023-06-04,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_92,14,2296.18,1506.92,Padrão
+P00253,2024-07-27,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_219,6,3374.1,2107.38,Econômico
+P00254,2023-03-06,Mesa,Móveis,Mesa,Nordeste,Salvador,Cliente_13,10,2389.79,1450.39,Econômico
+P00255,2023-06-13,Mesa,Móveis,Mesa,Sudeste,São Paulo,Cliente_188,5,2809.35,2353.88,Expresso
+P00256,2024-06-29,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_52,7,539.35,317.22,Padrão
+P00257,2024-07-07,Suporte,Acessórios,Suporte,Sudeste,São Paulo,Cliente_113,4,3011.29,2010.69,Econômico
+P00258,2023-01-29,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_97,9,2414.71,1645.1,Padrão
+P00259,2024-12-26,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_200,8,1625.94,1205.08,Econômico
+P00260,2024-03-24,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_87,8,3090.96,1798.04,Econômico
+P00261,2024-02-12,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_152,7,2512.81,1436.38,Econômico
+P00262,2023-07-30,Monitor,Tecnologia,Monitor,Sudeste,Rio de Janeiro,Cliente_28,14,3470.73,2919.66,Expresso
+P00263,2023-05-18,Caneta,Escritório,Caneta,Sudeste,São Paulo,Cliente_38,14,2910.26,1660.63,Expresso
+P00264,2024-07-14,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_292,9,1349.15,825.28,Padrão
+P00265,2024-01-05,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_266,9,1865.45,1049.48,Econômico
+P00266,2023-10-15,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_288,6,1711.33,1413.71,Padrão
+P00267,2024-05-02,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_124,8,2102.89,1216.53,Padrão
+P00268,2024-03-10,Mouse,Tecnologia,Mouse,Sul,Porto Alegre,Cliente_174,14,3250.55,2446.99,Econômico
+P00269,2023-08-21,Mochila,Acessórios,Mochila,Nordeste,Recife,Cliente_18,14,3017.57,2425.99,Econômico
+P00270,2024-10-24,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_236,8,2623.71,1882.1,Expresso
+P00271,2024-04-10,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_258,9,3282.11,1847.67,Econômico
+P00272,2023-03-29,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_44,2,763.02,535.45,Econômico
+P00273,2023-01-19,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_23,1,1789.09,1143.7,Econômico
+P00274,2023-12-28,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_186,9,2668.7,1595.94,Econômico
+P00275,2024-05-05,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_10,4,365.14,244.81,Econômico
+P00276,2024-01-28,Fone,Acessórios,Fone,Nordeste,Fortaleza,Cliente_86,11,2413.84,1599.36,Padrão
+P00277,2024-03-12,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_20,1,58.39,45.24,Expresso
+P00278,2023-05-12,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_111,6,3070.74,2606.76,Econômico
+P00279,2024-02-09,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_202,3,499.62,374.17,Padrão
+P00280,2024-05-29,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_216,7,3062.43,2152.99,Econômico
+P00281,2023-06-08,Fone,Acessórios,Fone,Nordeste,Recife,Cliente_188,8,2374.11,1879.1,Expresso
+P00282,2023-11-10,Teclado,Tecnologia,Teclado,Sul,Curitiba,Cliente_117,6,2440.05,1888.05,Expresso
+P00283,2024-04-25,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_146,4,445.87,343.61,Expresso
+P00284,2023-06-10,Mochila,Acessórios,Mochila,Nordeste,Fortaleza,Cliente_198,11,2572.98,1646.28,Expresso
+P00285,2024-08-24,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_61,14,2620.32,2022.88,Padrão
+P00286,2024-12-10,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_51,1,2058.62,1494.44,Econômico
+P00287,2023-02-18,Caneta,Escritório,Caneta,Nordeste,Recife,Cliente_74,10,3057.1,2453.57,Econômico
+P00288,2024-10-02,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_280,14,2553.23,1784.55,Econômico
+P00289,2024-06-26,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_84,14,2143.58,1266.01,Econômico
+P00290,2023-06-12,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_220,12,175.19,98.26,Padrão
+P00291,2024-08-04,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_44,6,1512.53,1215.22,Econômico
+P00292,2024-06-16,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_196,4,2176.55,1564.07,Padrão
+P00293,2024-04-16,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_143,2,2568.92,1835.48,Expresso
+P00294,2023-11-10,Mouse,Tecnologia,Mouse,Sul,Porto Alegre,Cliente_21,8,925.35,711.82,Padrão
+P00295,2024-01-19,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_161,5,1987.35,1369.64,Padrão
+P00296,2024-08-15,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_152,9,2980.14,2140.84,Econômico
+P00297,2024-06-12,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_98,11,255.49,194.77,Padrão
+P00298,2023-04-22,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_57,10,596.9,497.64,Padrão
+P00299,2023-12-10,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_294,3,2285.39,1630.92,Expresso
+P00300,2024-06-15,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_154,1,720.75,452.33,Expresso
+P00301,2024-09-19,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_92,8,459.36,343.55,Padrão
+P00302,2023-09-11,Papel A4,Escritório,Papel A4,Sudeste,Rio de Janeiro,Cliente_44,12,2706.6,1510.69,Econômico
+P00303,2024-03-02,Armário,Móveis,Armário,Sul,Curitiba,Cliente_197,4,1591.9,1065.33,Expresso
+P00304,2024-08-19,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_72,12,2779.13,2010.09,Expresso
+P00305,2024-03-29,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_268,8,1830.26,1252.41,Padrão
+P00306,2023-08-08,Agenda,Escritório,Agenda,Sudeste,Belo Horizonte,Cliente_129,11,983.63,831.22,Expresso
+P00307,2024-01-01,Mochila,Acessórios,Mochila,Centro-Oeste,Goiânia,Cliente_246,11,1109.8,876.28,Expresso
+P00308,2023-04-19,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_21,14,1132.44,958.64,Padrão
+P00309,2024-10-01,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_283,6,3429.64,2561.4,Econômico
+P00310,2024-10-06,Teclado,Tecnologia,Teclado,Sudeste,São Paulo,Cliente_227,4,3118.1,1789.23,Econômico
+P00311,2024-01-12,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_213,2,405.4,315.35,Padrão
+P00312,2023-08-06,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_190,14,624.69,477.02,Econômico
+P00313,2023-03-16,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_279,9,2594.06,1575.57,Padrão
+P00314,2024-12-24,Notebook,Tecnologia,Notebook,Centro-Oeste,Brasília,Cliente_272,14,3427.29,2537.02,Padrão
+P00315,2024-10-21,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_124,12,2392.21,1435.66,Econômico
+P00316,2023-05-23,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_191,3,2435.64,1714.2,Econômico
+P00317,2024-02-05,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_39,14,2662.19,2185.87,Econômico
+P00318,2024-02-11,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_91,3,3177.04,2386.65,Padrão
+P00319,2024-10-20,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_30,4,1348.01,793.51,Expresso
+P00320,2024-09-05,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_215,9,1486.63,829.76,Padrão
+P00321,2023-10-11,Mochila,Acessórios,Mochila,Nordeste,Recife,Cliente_173,3,2894.62,2199.31,Expresso
+P00322,2024-02-02,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_120,12,2906.29,1843.92,Padrão
+P00323,2024-01-11,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_89,1,861.79,477.19,Padrão
+P00324,2023-03-09,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_264,11,2561.26,1868.8,Padrão
+P00325,2023-01-16,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_62,9,3461.82,2554.31,Econômico
+P00326,2024-10-22,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_276,11,3484.12,2810.67,Econômico
+P00327,2024-04-26,Papel A4,Escritório,Papel A4,Sudeste,São Paulo,Cliente_216,9,3185.5,2391.55,Econômico
+P00328,2024-07-12,Mochila,Acessórios,Mochila,Nordeste,Fortaleza,Cliente_15,8,1122.97,764.05,Econômico
+P00329,2024-05-19,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_157,6,2132.67,1576.88,Expresso
+P00330,2023-07-13,Suporte,Acessórios,Suporte,Nordeste,Recife,Cliente_162,12,1717.08,1280.37,Expresso
+P00331,2024-07-26,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_268,6,266.84,167.13,Padrão
+P00332,2024-09-12,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_241,12,1654.35,1133.46,Expresso
+P00333,2023-02-18,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_190,4,740.33,521.91,Expresso
+P00334,2024-09-09,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_233,5,1546.11,951.71,Econômico
+P00335,2023-07-02,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_41,1,416.16,271.99,Expresso
+P00336,2024-07-10,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_1,3,1588.08,1316.24,Expresso
+P00337,2024-08-24,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_103,12,2367.64,1512.96,Padrão
+P00338,2024-12-27,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_177,14,197.95,124.17,Expresso
+P00339,2024-08-16,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_147,4,1355.76,931.23,Expresso
+P00340,2023-04-15,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_202,3,1254.6,1044.48,Padrão
+P00341,2024-01-12,Agenda,Escritório,Agenda,Sudeste,Rio de Janeiro,Cliente_39,14,2233.61,1840.47,Expresso
+P00342,2023-12-16,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_296,2,1864.37,1489.08,Padrão
+P00343,2023-12-23,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_213,3,1582.01,910.16,Padrão
+P00344,2023-10-04,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_107,7,2862.2,1632.07,Padrão
+P00345,2023-07-07,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_288,9,1085.97,854.33,Expresso
+P00346,2023-04-28,Agenda,Escritório,Agenda,Sudeste,Belo Horizonte,Cliente_100,7,1129.66,818.62,Econômico
+P00347,2024-07-21,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_193,12,1518.24,899.98,Expresso
+P00348,2024-04-23,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_126,12,1338.61,738.93,Expresso
+P00349,2024-03-15,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_204,5,1868.18,1499.24,Padrão
+P00350,2023-12-10,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_67,13,3402.65,2104.69,Expresso
+P00351,2023-08-22,Monitor,Tecnologia,Monitor,Sul,Curitiba,Cliente_51,14,127.73,85.12,Padrão
+P00352,2023-05-05,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_37,5,1026.57,841.81,Padrão
+P00353,2024-01-04,Mochila,Acessórios,Mochila,Nordeste,Fortaleza,Cliente_285,6,2118.24,1690.38,Econômico
+P00354,2023-03-09,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_69,1,1361.58,887.91,Econômico
+P00355,2024-07-07,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_109,13,2671.42,2137.39,Expresso
+P00356,2024-05-13,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_92,12,837.93,669.68,Expresso
+P00357,2023-09-30,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_99,2,1721.36,1154.23,Padrão
+P00358,2023-10-11,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_5,3,720.57,481.73,Econômico
+P00359,2024-11-15,Monitor,Tecnologia,Monitor,Sul,Curitiba,Cliente_47,11,3184.9,2441.68,Padrão
+P00360,2024-07-11,Mouse,Tecnologia,Mouse,Nordeste,Fortaleza,Cliente_12,12,220.94,166.64,Padrão
+P00361,2024-11-25,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_250,12,1702.26,1377.24,Padrão
+P00362,2024-05-13,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_242,7,1365.16,960.23,Econômico
+P00363,2023-12-31,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_163,2,1563.23,1142.15,Expresso
+P00364,2023-05-27,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_63,1,2247.89,1437.59,Padrão
+P00365,2023-04-24,Agenda,Escritório,Agenda,Sudeste,São Paulo,Cliente_22,14,788.19,607.07,Econômico
+P00366,2023-07-23,Armário,Móveis,Armário,Nordeste,Recife,Cliente_194,10,487.83,312.13,Econômico
+P00367,2024-01-05,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_264,9,2781.01,2355.97,Padrão
+P00368,2024-07-02,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_1,7,173.68,113.33,Expresso
+P00369,2023-09-14,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_164,5,2880.3,2283.38,Expresso
+P00370,2023-09-17,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_75,9,2536.56,1608.43,Expresso
+P00371,2024-07-26,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_83,13,3317.95,1896.86,Expresso
+P00372,2023-12-24,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_188,7,2950.42,1837.14,Padrão
+P00373,2023-08-03,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_120,12,3024.63,2027.69,Padrão
+P00374,2023-08-21,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_158,7,1678.0,1036.68,Econômico
+P00375,2023-12-03,Notebook,Tecnologia,Notebook,Nordeste,Salvador,Cliente_183,3,2274.4,1334.79,Expresso
+P00376,2023-06-09,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_14,4,2194.25,1254.08,Padrão
+P00377,2023-09-17,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_205,8,1029.1,739.91,Expresso
+P00378,2024-09-30,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_75,14,3089.33,2462.61,Econômico
+P00379,2023-04-06,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_214,1,1798.73,1014.58,Padrão
+P00380,2023-06-06,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_156,8,33.29,20.78,Expresso
+P00381,2024-09-03,Notebook,Tecnologia,Notebook,Nordeste,Fortaleza,Cliente_141,9,2952.64,1901.51,Expresso
+P00382,2024-04-15,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_218,12,2369.49,1385.69,Econômico
+P00383,2024-12-25,Monitor,Tecnologia,Monitor,Nordeste,Salvador,Cliente_235,8,2371.95,1403.57,Econômico
+P00384,2024-08-28,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_201,11,3328.69,2532.34,Econômico
+P00385,2024-06-23,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_41,10,384.73,269.15,Expresso
+P00386,2023-01-13,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_210,3,1306.95,739.35,Econômico
+P00387,2023-04-10,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_109,9,2307.59,1596.12,Expresso
+P00388,2023-01-03,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_28,8,3259.21,1915.49,Padrão
+P00389,2023-09-09,Mochila,Acessórios,Mochila,Centro-Oeste,Goiânia,Cliente_235,6,713.27,582.79,Expresso
+P00390,2023-02-22,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_74,6,1815.2,1144.08,Padrão
+P00391,2023-05-18,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_163,2,87.26,51.25,Econômico
+P00392,2023-06-20,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_228,12,2091.06,1156.31,Padrão
+P00393,2024-04-09,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_104,4,1603.12,1010.25,Padrão
+P00394,2024-11-04,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_134,10,2700.15,2138.92,Expresso
+P00395,2024-09-29,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_12,7,1822.5,1192.7,Expresso
+P00396,2023-11-27,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_264,4,2967.77,1653.28,Econômico
+P00397,2023-07-14,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_157,13,1405.06,900.47,Padrão
+P00398,2024-01-28,Cadeira,Móveis,Cadeira,Nordeste,Fortaleza,Cliente_119,12,221.3,185.3,Econômico
+P00399,2023-03-31,Fone,Acessórios,Fone,Nordeste,Fortaleza,Cliente_199,12,2723.71,1665.53,Padrão
+P00400,2024-11-23,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_68,11,2032.48,1207.47,Expresso
+P00401,2024-03-13,Agenda,Escritório,Agenda,Nordeste,Salvador,Cliente_188,1,3316.94,2160.0,Econômico
+P00402,2024-08-18,Agenda,Escritório,Agenda,Sudeste,Rio de Janeiro,Cliente_248,2,2421.54,2007.89,Padrão
+P00403,2023-10-04,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_46,2,861.79,603.41,Econômico
+P00404,2023-08-11,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_222,14,1619.63,1156.37,Expresso
+P00405,2023-11-27,Mesa,Móveis,Mesa,Sudeste,São Paulo,Cliente_50,11,2366.73,1398.98,Expresso
+P00406,2023-03-31,Caneta,Escritório,Caneta,Sudeste,Belo Horizonte,Cliente_139,12,3481.97,2658.54,Econômico
+P00407,2024-01-25,Mouse,Tecnologia,Mouse,Nordeste,Fortaleza,Cliente_260,7,764.57,423.5,Expresso
+P00408,2024-03-25,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_247,1,3361.27,2374.53,Econômico
+P00409,2023-07-06,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_84,14,2249.34,1686.96,Padrão
+P00410,2024-05-26,Cadeira,Móveis,Cadeira,Sul,Porto Alegre,Cliente_156,9,2927.22,2298.82,Padrão
+P00411,2024-08-25,Agenda,Escritório,Agenda,Sudeste,Rio de Janeiro,Cliente_278,12,639.05,450.15,Econômico
+P00412,2023-09-22,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_248,12,2325.27,1361.56,Expresso
+P00413,2024-02-08,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_117,9,2668.31,1765.13,Padrão
+P00414,2024-11-15,Agenda,Escritório,Agenda,Sudeste,Belo Horizonte,Cliente_116,11,978.91,721.07,Econômico
+P00415,2023-06-03,Mochila,Acessórios,Mochila,Nordeste,Recife,Cliente_116,4,2968.51,2436.17,Expresso
+P00416,2023-10-05,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_237,9,815.86,682.79,Econômico
+P00417,2023-10-09,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_109,8,2038.71,1437.31,Expresso
+P00418,2023-03-25,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_242,8,1415.28,1102.41,Econômico
+P00419,2024-04-19,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_271,7,134.18,99.4,Expresso
+P00420,2023-06-13,Notebook,Tecnologia,Notebook,Nordeste,Fortaleza,Cliente_24,8,2897.08,1634.8,Padrão
+P00421,2023-10-06,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_69,1,1896.05,1203.5,Expresso
+P00422,2023-11-22,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_138,9,2074.7,1179.26,Expresso
+P00423,2023-02-07,Caneta,Escritório,Caneta,Sudeste,São Paulo,Cliente_239,4,821.85,452.38,Econômico
+P00424,2023-04-22,Notebook,Tecnologia,Notebook,Nordeste,Recife,Cliente_206,2,3138.22,2496.17,Econômico
+P00425,2023-08-01,Armário,Móveis,Armário,Nordeste,Recife,Cliente_149,4,3447.31,2676.06,Econômico
+P00426,2023-09-11,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_9,10,2488.44,1493.55,Econômico
+P00427,2023-06-02,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_123,1,2113.41,1350.4,Econômico
+P00428,2023-03-29,Mouse,Tecnologia,Mouse,Sudeste,São Paulo,Cliente_194,9,618.87,520.92,Expresso
+P00429,2024-05-23,Suporte,Acessórios,Suporte,Nordeste,Recife,Cliente_126,1,444.67,261.26,Econômico
+P00430,2023-12-06,Mouse,Tecnologia,Mouse,Nordeste,Salvador,Cliente_245,13,514.75,316.07,Expresso
+P00431,2024-04-18,Teclado,Tecnologia,Teclado,Sudeste,Belo Horizonte,Cliente_271,13,3315.88,2317.39,Padrão
+P00432,2024-11-04,Teclado,Tecnologia,Teclado,Nordeste,Fortaleza,Cliente_189,8,2795.46,2054.03,Expresso
+P00433,2023-12-05,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_193,6,1921.58,1614.34,Econômico
+P00434,2024-07-08,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_89,14,1943.42,1300.08,Expresso
+P00435,2024-06-02,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_206,6,2361.01,1862.84,Expresso
+P00436,2023-05-04,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_113,3,2205.42,1376.74,Padrão
+P00437,2024-07-22,Teclado,Tecnologia,Teclado,Sudeste,Belo Horizonte,Cliente_69,12,2182.1,1418.83,Padrão
+P00438,2023-07-16,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_47,2,1526.03,1153.12,Expresso
+P00439,2024-02-07,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_128,7,2220.34,1353.74,Padrão
+P00440,2024-07-22,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_218,8,981.59,667.09,Padrão
+P00441,2024-11-11,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_82,6,1926.29,1625.19,Padrão
+P00442,2023-04-08,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_291,1,1403.69,883.32,Padrão
+P00443,2024-10-30,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_230,10,2120.66,1215.34,Expresso
+P00444,2024-02-18,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_290,3,2190.3,1630.79,Padrão
+P00445,2023-11-22,Caneta,Escritório,Caneta,Nordeste,Fortaleza,Cliente_233,10,1588.39,1193.86,Expresso
+P00446,2023-09-23,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_79,13,625.8,366.17,Expresso
+P00447,2024-02-18,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_25,11,2707.61,1997.03,Econômico
+P00448,2023-03-24,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_138,4,3278.21,2336.04,Econômico
+P00449,2024-01-05,Mouse,Tecnologia,Mouse,Sul,Porto Alegre,Cliente_283,6,3419.98,1985.53,Padrão
+P00450,2023-09-28,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_132,5,3202.63,2178.45,Econômico
+P00451,2024-01-12,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_41,3,2071.3,1520.31,Padrão
+P00452,2024-03-11,Cadeira,Móveis,Cadeira,Centro-Oeste,Brasília,Cliente_47,1,2867.93,1620.39,Expresso
+P00453,2023-03-02,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_161,11,881.51,501.36,Expresso
+P00454,2023-10-02,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_164,7,2937.95,2325.47,Expresso
+P00455,2024-08-25,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_238,3,2166.41,1674.34,Expresso
+P00456,2024-01-04,Mesa,Móveis,Mesa,Sudeste,São Paulo,Cliente_284,13,2053.88,1461.34,Econômico
+P00457,2024-07-23,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_123,8,2760.06,1858.63,Padrão
+P00458,2023-03-04,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_150,5,2748.28,1857.33,Expresso
+P00459,2023-07-26,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_129,7,215.49,150.27,Expresso
+P00460,2024-10-06,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_202,9,925.62,553.38,Econômico
+P00461,2023-05-09,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_196,4,1572.78,1245.25,Expresso
+P00462,2023-06-02,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_237,5,2604.01,1492.07,Expresso
+P00463,2023-11-10,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_295,4,2220.11,1469.84,Econômico
+P00464,2024-10-23,Notebook,Tecnologia,Notebook,Sudeste,São Paulo,Cliente_118,6,1945.73,1363.84,Econômico
+P00465,2024-04-01,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_285,3,1462.52,810.2,Expresso
+P00466,2024-02-05,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_247,4,819.0,479.33,Econômico
+P00467,2024-02-18,Cadeira,Móveis,Cadeira,Sul,Porto Alegre,Cliente_209,2,1052.82,750.04,Padrão
+P00468,2024-11-04,Caneta,Escritório,Caneta,Nordeste,Recife,Cliente_201,10,1252.86,728.67,Padrão
+P00469,2023-04-28,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_152,7,868.18,547.2,Expresso
+P00470,2023-06-24,Notebook,Tecnologia,Notebook,Nordeste,Salvador,Cliente_141,14,3052.71,2300.81,Padrão
+P00471,2023-11-13,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_295,13,2444.26,1707.83,Padrão
+P00472,2023-04-13,Teclado,Tecnologia,Teclado,Sudeste,São Paulo,Cliente_193,10,3136.95,1917.6,Econômico
+P00473,2024-09-20,Cadeira,Móveis,Cadeira,Nordeste,Salvador,Cliente_282,11,1670.41,1199.69,Econômico
+P00474,2024-02-29,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_118,1,1638.39,1330.79,Econômico
+P00475,2023-05-19,Caneta,Escritório,Caneta,Sudeste,Belo Horizonte,Cliente_181,3,2995.31,2440.48,Padrão
+P00476,2024-10-09,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_22,3,997.47,610.84,Padrão
+P00477,2023-03-23,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_45,12,1918.64,1620.31,Padrão
+P00478,2023-07-25,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_40,13,1573.43,898.43,Expresso
+P00479,2024-09-10,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_96,12,2535.13,1893.79,Expresso
+P00480,2024-04-26,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_207,1,1318.88,975.44,Econômico
+P00481,2024-04-24,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_209,5,1833.33,1200.95,Expresso
+P00482,2023-08-08,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_215,13,1365.44,1022.37,Expresso
+P00483,2024-07-27,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_170,4,2987.0,2128.22,Econômico
+P00484,2023-08-25,Teclado,Tecnologia,Teclado,Sul,Porto Alegre,Cliente_94,8,2068.0,1252.4,Padrão
+P00485,2024-01-06,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_279,1,2054.64,1212.44,Padrão
+P00486,2023-08-10,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_61,6,1875.71,1389.96,Econômico
+P00487,2024-08-08,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_207,5,2437.35,1500.47,Expresso
+P00488,2024-06-23,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_257,10,2452.34,1619.78,Econômico
+P00489,2023-04-30,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_178,5,3111.86,2481.08,Padrão
+P00490,2023-04-14,Monitor,Tecnologia,Monitor,Sul,Curitiba,Cliente_77,8,1152.01,944.98,Padrão
+P00491,2024-11-18,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_27,1,2026.92,1155.71,Expresso
+P00492,2023-12-17,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_143,10,39.9,27.52,Econômico
+P00493,2024-05-22,Notebook,Tecnologia,Notebook,Nordeste,Fortaleza,Cliente_291,11,2975.14,1998.71,Padrão
+P00494,2024-11-25,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_207,2,2477.43,1592.21,Expresso
+P00495,2023-03-09,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_61,5,1420.13,947.48,Econômico
+P00496,2023-02-17,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_211,10,501.76,363.1,Expresso
+P00497,2024-07-16,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_149,7,2172.47,1607.46,Padrão
+P00498,2023-10-15,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_189,4,3290.96,2307.63,Padrão
+P00499,2024-10-06,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_59,8,3297.09,1978.94,Expresso
+P00500,2023-09-17,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_193,6,563.6,417.5,Expresso
+P00501,2024-02-08,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_112,1,2934.04,1763.12,Econômico
+P00502,2023-06-15,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_131,12,1602.96,1211.37,Padrão
+P00503,2024-03-13,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_26,5,2921.6,2170.08,Expresso
+P00504,2024-12-21,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_128,8,251.52,155.75,Expresso
+P00505,2023-06-04,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_181,7,1765.48,1488.05,Expresso
+P00506,2023-08-11,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_119,3,124.49,101.98,Econômico
+P00507,2023-11-05,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_119,14,465.22,304.37,Econômico
+P00508,2023-03-12,Monitor,Tecnologia,Monitor,Sul,Porto Alegre,Cliente_58,13,316.16,210.46,Padrão
+P00509,2023-03-25,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_293,10,280.38,191.09,Padrão
+P00510,2023-04-20,Monitor,Tecnologia,Monitor,Centro-Oeste,Goiânia,Cliente_192,12,988.72,780.58,Econômico
+P00511,2023-04-11,Mesa,Móveis,Mesa,Nordeste,Salvador,Cliente_282,4,2365.5,1345.42,Padrão
+P00512,2024-04-15,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_278,6,3029.01,1806.74,Padrão
+P00513,2024-02-28,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_128,14,497.28,360.13,Padrão
+P00514,2023-09-04,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_223,12,1717.66,987.11,Expresso
+P00515,2023-03-30,Cadeira,Móveis,Cadeira,Nordeste,Recife,Cliente_176,5,1476.75,1015.31,Padrão
+P00516,2024-01-28,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_40,7,2943.58,2492.72,Padrão
+P00517,2023-07-30,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_249,9,1734.14,1205.15,Expresso
+P00518,2024-05-02,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_229,7,1599.88,1245.88,Padrão
+P00519,2024-07-04,Papel A4,Escritório,Papel A4,Sudeste,Rio de Janeiro,Cliente_72,14,2263.71,1401.12,Econômico
+P00520,2024-03-26,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_131,6,2994.37,1795.4,Econômico
+P00521,2023-07-04,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_6,13,2026.62,1454.36,Padrão
+P00522,2023-12-15,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_255,11,1194.43,918.33,Econômico
+P00523,2024-01-18,Cadeira,Móveis,Cadeira,Nordeste,Salvador,Cliente_13,14,1829.86,1292.95,Econômico
+P00524,2024-04-25,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_273,4,1330.33,824.29,Padrão
+P00525,2024-04-18,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_111,7,1034.28,633.25,Expresso
+P00526,2023-01-02,Teclado,Tecnologia,Teclado,Sudeste,São Paulo,Cliente_246,12,2666.8,1590.34,Padrão
+P00527,2023-04-04,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_269,13,2697.68,1805.72,Expresso
+P00528,2023-07-20,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_180,1,1796.82,1319.83,Padrão
+P00529,2024-10-10,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_182,4,989.08,797.09,Expresso
+P00530,2023-05-20,Monitor,Tecnologia,Monitor,Nordeste,Fortaleza,Cliente_237,2,769.94,501.08,Padrão
+P00531,2023-08-20,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_42,11,623.77,414.13,Padrão
+P00532,2024-12-25,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_56,1,753.52,540.23,Padrão
+P00533,2023-08-21,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_227,13,2897.47,2049.73,Expresso
+P00534,2024-10-29,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_273,2,2344.18,1945.58,Padrão
+P00535,2024-08-02,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_214,6,3316.12,2704.15,Padrão
+P00536,2023-04-15,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_228,13,55.79,42.67,Expresso
+P00537,2023-07-29,Fone,Acessórios,Fone,Nordeste,Recife,Cliente_296,12,1203.1,690.2,Econômico
+P00538,2023-07-03,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_76,12,593.8,369.34,Expresso
+P00539,2024-05-24,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_118,9,3198.05,1940.63,Padrão
+P00540,2023-01-05,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_195,8,2031.06,1668.13,Padrão
+P00541,2024-11-17,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_162,12,3030.07,1893.3,Expresso
+P00542,2024-01-03,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_129,7,1046.85,669.63,Padrão
+P00543,2024-09-19,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_214,10,2121.21,1715.94,Econômico
+P00544,2023-10-29,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_25,13,1735.01,1110.38,Econômico
+P00545,2023-10-30,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_91,6,3160.4,2064.33,Padrão
+P00546,2023-08-30,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_138,8,2306.47,1890.19,Econômico
+P00547,2023-08-25,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_181,11,2807.41,1632.05,Expresso
+P00548,2024-05-28,Monitor,Tecnologia,Monitor,Nordeste,Salvador,Cliente_188,6,767.14,437.4,Expresso
+P00549,2024-03-20,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_220,12,3058.42,2406.51,Padrão
+P00550,2023-09-04,Cadeira,Móveis,Cadeira,Nordeste,Fortaleza,Cliente_31,10,1520.69,994.92,Econômico
+P00551,2023-07-10,Mochila,Acessórios,Mochila,Nordeste,Recife,Cliente_182,8,3463.22,2501.59,Padrão
+P00552,2024-12-02,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_175,6,3137.68,2473.05,Econômico
+P00553,2024-03-04,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_262,1,2924.38,1922.78,Expresso
+P00554,2024-02-19,Mesa,Móveis,Mesa,Nordeste,Salvador,Cliente_245,6,2671.35,2095.55,Expresso
+P00555,2023-01-26,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_5,10,2399.86,1702.63,Padrão
+P00556,2024-06-09,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_13,2,3399.61,2443.15,Expresso
+P00557,2024-02-23,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_100,11,173.26,131.33,Expresso
+P00558,2023-11-23,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_50,8,1132.39,771.67,Econômico
+P00559,2023-07-06,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_208,14,987.79,607.57,Padrão
+P00560,2023-05-16,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_280,13,2491.2,1441.7,Expresso
+P00561,2024-01-06,Agenda,Escritório,Agenda,Sudeste,Belo Horizonte,Cliente_103,13,2931.01,1656.21,Padrão
+P00562,2023-07-16,Notebook,Tecnologia,Notebook,Centro-Oeste,Brasília,Cliente_221,14,2638.34,1871.61,Expresso
+P00563,2024-09-25,Fone,Acessórios,Fone,Nordeste,Recife,Cliente_108,13,2310.03,1276.1,Econômico
+P00564,2024-04-01,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_229,2,888.27,634.44,Padrão
+P00565,2024-02-05,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_96,11,1966.73,1570.53,Expresso
+P00566,2023-10-18,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_22,5,3003.03,2390.79,Econômico
+P00567,2024-01-28,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_76,11,1601.32,1255.53,Expresso
+P00568,2023-03-24,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_125,11,3286.08,1985.96,Expresso
+P00569,2023-08-25,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_248,7,1471.83,880.26,Expresso
+P00570,2024-09-30,Mouse,Tecnologia,Mouse,Sul,Porto Alegre,Cliente_25,9,2422.61,1579.94,Padrão
+P00571,2024-11-15,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_209,11,102.5,82.05,Padrão
+P00572,2023-08-29,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_243,10,3245.67,1993.2,Padrão
+P00573,2023-08-27,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_298,6,2740.02,1764.88,Econômico
+P00574,2023-03-13,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_263,10,977.83,745.92,Expresso
+P00575,2024-07-08,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_17,8,344.32,231.78,Expresso
+P00576,2024-09-21,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_175,5,324.82,187.41,Econômico
+P00577,2024-01-16,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_293,10,2326.53,1887.26,Econômico
+P00578,2023-01-21,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_64,14,1943.61,1195.08,Econômico
+P00579,2023-08-12,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_272,4,2573.99,1683.31,Padrão
+P00580,2024-03-02,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_221,13,1194.61,944.77,Padrão
+P00581,2023-04-26,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_239,7,406.76,302.8,Expresso
+P00582,2024-08-09,Monitor,Tecnologia,Monitor,Sudeste,Rio de Janeiro,Cliente_165,2,177.63,132.67,Padrão
+P00583,2023-05-15,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_68,13,3474.18,2073.6,Expresso
+P00584,2024-08-29,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_181,9,1784.65,1323.08,Padrão
+P00585,2023-01-16,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_245,12,2335.47,1635.33,Expresso
+P00586,2023-11-02,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_95,5,2732.72,1516.28,Econômico
+P00587,2024-12-11,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_106,1,2289.28,1795.43,Expresso
+P00588,2023-07-14,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_283,11,3374.1,1992.49,Econômico
+P00589,2023-04-06,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_266,12,24.69,16.38,Padrão
+P00590,2024-12-20,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_237,6,781.12,443.67,Padrão
+P00591,2024-04-18,Monitor,Tecnologia,Monitor,Sul,Curitiba,Cliente_89,11,2574.85,1679.82,Padrão
+P00592,2024-11-18,Mochila,Acessórios,Mochila,Centro-Oeste,Goiânia,Cliente_276,9,2187.11,1732.25,Expresso
+P00593,2024-01-21,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_159,12,2540.41,1772.64,Econômico
+P00594,2023-10-07,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_110,12,2080.22,1247.65,Padrão
+P00595,2024-03-29,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_36,2,3212.09,2158.45,Econômico
+P00596,2023-06-13,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_148,13,3152.92,2483.42,Padrão
+P00597,2024-10-22,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_104,11,304.2,251.66,Expresso
+P00598,2024-08-21,Armário,Móveis,Armário,Nordeste,Recife,Cliente_142,6,2402.5,1972.0,Econômico
+P00599,2024-07-09,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_98,12,3236.4,2227.3,Econômico
+P00600,2023-02-12,Teclado,Tecnologia,Teclado,Centro-Oeste,Brasília,Cliente_245,8,1023.12,654.42,Expresso
+P00601,2023-09-08,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_212,14,64.88,46.2,Expresso
+P00602,2024-05-22,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_219,9,1356.47,1017.19,Econômico
+P00603,2023-02-23,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_218,11,2907.44,2451.08,Expresso
+P00604,2024-12-06,Fone,Acessórios,Fone,Nordeste,Salvador,Cliente_8,10,1678.09,1083.19,Econômico
+P00605,2023-07-23,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_212,12,466.57,337.59,Econômico
+P00606,2023-06-20,Mochila,Acessórios,Mochila,Nordeste,Fortaleza,Cliente_141,6,3481.5,2011.44,Econômico
+P00607,2023-02-12,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_211,4,1732.35,1366.74,Padrão
+P00608,2024-03-15,Armário,Móveis,Armário,Sul,Curitiba,Cliente_211,11,986.9,771.22,Expresso
+P00609,2024-06-06,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_294,14,187.36,119.67,Padrão
+P00610,2023-08-08,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_65,14,2103.11,1568.68,Expresso
+P00611,2023-11-20,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_154,8,279.74,230.04,Padrão
+P00612,2023-09-26,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_89,5,92.85,59.86,Econômico
+P00613,2024-01-01,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_122,4,1397.86,1085.97,Expresso
+P00614,2024-01-02,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_26,13,439.16,318.55,Econômico
+P00615,2023-12-14,Cadeira,Móveis,Cadeira,Nordeste,Salvador,Cliente_273,4,597.86,339.78,Expresso
+P00616,2023-08-05,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_106,13,3056.84,2095.85,Expresso
+P00617,2023-08-05,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_7,4,1401.38,962.21,Padrão
+P00618,2024-01-16,Mouse,Tecnologia,Mouse,Sudeste,São Paulo,Cliente_230,10,1681.41,1228.34,Expresso
+P00619,2024-03-02,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_218,12,586.06,451.45,Econômico
+P00620,2023-10-19,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_244,13,2027.9,1325.52,Expresso
+P00621,2024-06-11,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_47,9,1399.17,893.93,Expresso
+P00622,2023-02-08,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_132,1,1842.35,1189.67,Padrão
+P00623,2023-03-31,Mesa,Móveis,Mesa,Nordeste,Recife,Cliente_181,12,3206.94,2109.97,Expresso
+P00624,2024-01-25,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_70,10,3457.37,2239.36,Padrão
+P00625,2023-02-02,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_229,14,3277.06,2463.29,Padrão
+P00626,2023-06-10,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_235,6,319.74,253.97,Padrão
+P00627,2023-09-16,Teclado,Tecnologia,Teclado,Sul,Porto Alegre,Cliente_135,7,1345.71,762.17,Expresso
+P00628,2024-06-06,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_68,1,2927.1,1782.8,Expresso
+P00629,2023-05-14,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_25,8,1950.31,1555.92,Expresso
+P00630,2023-06-28,Notebook,Tecnologia,Notebook,Nordeste,Fortaleza,Cliente_119,14,592.91,399.94,Econômico
+P00631,2024-04-24,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_251,5,2123.17,1654.18,Expresso
+P00632,2023-12-14,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_29,11,588.52,356.25,Expresso
+P00633,2024-06-03,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_122,6,1800.74,1251.49,Expresso
+P00634,2023-07-14,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_9,13,1945.45,1373.75,Padrão
+P00635,2024-02-12,Notebook,Tecnologia,Notebook,Sudeste,Belo Horizonte,Cliente_113,7,173.35,104.98,Econômico
+P00636,2023-11-02,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_12,14,1600.89,1097.36,Econômico
+P00637,2023-06-20,Monitor,Tecnologia,Monitor,Sul,Porto Alegre,Cliente_134,14,875.55,575.62,Expresso
+P00638,2024-10-19,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_92,14,1349.85,967.06,Expresso
+P00639,2024-04-25,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_68,9,1465.74,816.71,Padrão
+P00640,2024-03-07,Mouse,Tecnologia,Mouse,Centro-Oeste,Brasília,Cliente_94,10,2105.77,1618.49,Econômico
+P00641,2024-01-05,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_175,2,2795.35,2105.63,Expresso
+P00642,2023-11-05,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_26,9,2273.15,1825.63,Padrão
+P00643,2024-10-24,Mesa,Móveis,Mesa,Sudeste,São Paulo,Cliente_275,1,1445.66,1219.37,Padrão
+P00644,2024-11-22,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_253,12,2032.69,1625.71,Padrão
+P00645,2023-10-21,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_126,2,2289.92,1575.22,Expresso
+P00646,2024-07-11,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_236,12,2370.59,1585.45,Expresso
+P00647,2024-10-07,Caneta,Escritório,Caneta,Sudeste,Rio de Janeiro,Cliente_151,8,463.94,312.11,Expresso
+P00648,2024-10-19,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_225,7,2069.79,1721.24,Econômico
+P00649,2023-10-30,Teclado,Tecnologia,Teclado,Nordeste,Fortaleza,Cliente_168,13,801.62,457.52,Expresso
+P00650,2023-09-02,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_109,4,2453.7,1592.87,Econômico
+P00651,2023-04-11,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_246,13,1718.86,1014.05,Econômico
+P00652,2023-05-14,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_249,2,1022.88,564.57,Econômico
+P00653,2023-12-21,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_225,14,384.27,226.17,Expresso
+P00654,2023-06-02,Cadeira,Móveis,Cadeira,Centro-Oeste,Brasília,Cliente_126,8,1834.39,1502.32,Expresso
+P00655,2024-06-11,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_182,13,2839.36,1927.65,Expresso
+P00656,2024-03-14,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_34,1,955.42,582.42,Econômico
+P00657,2024-05-05,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_39,10,254.47,203.44,Expresso
+P00658,2024-01-16,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_15,4,2034.84,1128.08,Expresso
+P00659,2024-09-02,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_69,10,3265.98,1816.02,Expresso
+P00660,2024-09-12,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_189,2,2859.96,1589.23,Expresso
+P00661,2023-09-24,Monitor,Tecnologia,Monitor,Nordeste,Fortaleza,Cliente_99,14,218.77,129.35,Econômico
+P00662,2023-03-14,Mouse,Tecnologia,Mouse,Sudeste,São Paulo,Cliente_199,12,1260.87,1038.35,Padrão
+P00663,2023-06-28,Armário,Móveis,Armário,Nordeste,Fortaleza,Cliente_197,5,3272.21,2097.54,Expresso
+P00664,2023-05-10,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_153,4,1389.57,818.76,Econômico
+P00665,2024-08-16,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_75,7,1775.51,1142.82,Padrão
+P00666,2023-11-14,Mochila,Acessórios,Mochila,Nordeste,Recife,Cliente_144,11,43.72,30.91,Econômico
+P00667,2024-09-03,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_7,3,2964.51,1793.07,Padrão
+P00668,2024-08-14,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_83,6,399.37,249.43,Padrão
+P00669,2024-06-01,Teclado,Tecnologia,Teclado,Sudeste,São Paulo,Cliente_215,7,3003.16,2340.65,Padrão
+P00670,2024-01-18,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_115,1,2349.36,1455.16,Padrão
+P00671,2023-01-21,Armário,Móveis,Armário,Nordeste,Recife,Cliente_54,13,497.8,416.02,Expresso
+P00672,2023-11-23,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_109,4,1027.25,806.36,Econômico
+P00673,2023-08-25,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_104,6,898.06,729.14,Expresso
+P00674,2023-10-25,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_178,7,1354.22,813.19,Expresso
+P00675,2023-08-12,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_3,1,1623.93,1296.89,Expresso
+P00676,2023-01-24,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_116,13,3229.23,1913.63,Expresso
+P00677,2023-09-28,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_50,2,184.24,154.48,Expresso
+P00678,2023-12-18,Suporte,Acessórios,Suporte,Nordeste,Recife,Cliente_189,13,1057.99,828.04,Padrão
+P00679,2023-12-15,Mochila,Acessórios,Mochila,Sudeste,São Paulo,Cliente_98,2,1304.59,857.32,Padrão
+P00680,2023-12-13,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_209,13,1467.2,834.75,Econômico
+P00681,2023-01-22,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_291,13,1648.57,1109.84,Econômico
+P00682,2024-05-17,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_130,1,498.02,315.28,Econômico
+P00683,2024-10-21,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_16,1,3485.16,2371.92,Expresso
+P00684,2024-09-03,Notebook,Tecnologia,Notebook,Centro-Oeste,Brasília,Cliente_214,5,3020.02,1756.51,Padrão
+P00685,2023-04-07,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_1,11,255.26,195.84,Econômico
+P00686,2023-08-16,Armário,Móveis,Armário,Nordeste,Fortaleza,Cliente_188,1,2521.14,1470.28,Padrão
+P00687,2024-03-15,Mesa,Móveis,Mesa,Nordeste,Recife,Cliente_18,10,975.28,719.17,Padrão
+P00688,2024-10-19,Notebook,Tecnologia,Notebook,Sudeste,Belo Horizonte,Cliente_182,7,2856.45,2322.97,Expresso
+P00689,2024-09-09,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_263,4,3461.17,2405.4,Padrão
+P00690,2024-04-18,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_9,1,3004.21,1740.07,Expresso
+P00691,2023-03-06,Caneta,Escritório,Caneta,Nordeste,Fortaleza,Cliente_182,6,1193.91,953.05,Econômico
+P00692,2024-09-02,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_62,7,671.19,481.02,Padrão
+P00693,2024-06-26,Mouse,Tecnologia,Mouse,Nordeste,Recife,Cliente_158,13,2586.19,1839.07,Padrão
+P00694,2024-03-15,Caneta,Escritório,Caneta,Sudeste,Rio de Janeiro,Cliente_278,14,2365.58,1900.26,Expresso
+P00695,2024-04-21,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_198,12,92.24,71.79,Econômico
+P00696,2023-03-02,Teclado,Tecnologia,Teclado,Sudeste,Belo Horizonte,Cliente_54,5,3011.57,1808.88,Padrão
+P00697,2024-01-26,Mochila,Acessórios,Mochila,Centro-Oeste,Goiânia,Cliente_181,11,70.05,55.4,Expresso
+P00698,2023-11-23,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_96,13,1388.76,990.69,Expresso
+P00699,2023-12-06,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_129,1,1771.64,1397.7,Padrão
+P00700,2023-10-06,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_23,3,1333.22,898.67,Padrão
+P00701,2024-07-20,Teclado,Tecnologia,Teclado,Nordeste,Fortaleza,Cliente_192,10,2576.79,1958.05,Expresso
+P00702,2024-09-22,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_208,7,2905.44,2040.91,Padrão
+P00703,2023-06-18,Mouse,Tecnologia,Mouse,Nordeste,Fortaleza,Cliente_169,3,688.22,408.67,Expresso
+P00704,2024-07-26,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_270,2,3235.77,2575.99,Padrão
+P00705,2023-07-28,Caneta,Escritório,Caneta,Nordeste,Recife,Cliente_97,2,2417.06,1729.6,Padrão
+P00706,2024-07-06,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_32,3,2256.93,1648.2,Expresso
+P00707,2024-09-30,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_292,14,1660.15,1148.42,Padrão
+P00708,2024-12-15,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_74,7,1455.04,831.82,Econômico
+P00709,2024-01-01,Monitor,Tecnologia,Monitor,Nordeste,Salvador,Cliente_120,6,723.48,516.31,Econômico
+P00710,2024-10-10,Monitor,Tecnologia,Monitor,Sudeste,São Paulo,Cliente_273,2,1402.5,874.69,Econômico
+P00711,2023-06-01,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_74,11,855.96,584.74,Econômico
+P00712,2023-03-14,Mouse,Tecnologia,Mouse,Sul,Porto Alegre,Cliente_14,4,3209.38,2080.81,Econômico
+P00713,2023-04-17,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_108,11,2587.99,1887.24,Econômico
+P00714,2024-06-21,Teclado,Tecnologia,Teclado,Nordeste,Fortaleza,Cliente_217,12,809.89,626.18,Padrão
+P00715,2023-09-30,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_76,2,2906.26,1764.39,Econômico
+P00716,2023-11-04,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_118,1,2972.68,1958.93,Expresso
+P00717,2024-07-14,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_25,8,2960.74,1979.3,Padrão
+P00718,2023-12-02,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_71,7,1262.3,934.64,Econômico
+P00719,2023-10-28,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_212,14,1035.85,802.35,Expresso
+P00720,2023-05-20,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_218,2,1506.33,1043.18,Econômico
+P00721,2024-07-31,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_234,2,2340.23,1645.86,Econômico
+P00722,2024-08-18,Agenda,Escritório,Agenda,Sudeste,Belo Horizonte,Cliente_276,1,2940.07,2102.73,Expresso
+P00723,2024-07-09,Armário,Móveis,Armário,Nordeste,Recife,Cliente_238,4,1475.65,948.58,Padrão
+P00724,2024-01-08,Monitor,Tecnologia,Monitor,Centro-Oeste,Goiânia,Cliente_51,2,1160.89,922.59,Expresso
+P00725,2024-10-08,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_69,11,2982.89,1716.0,Expresso
+P00726,2024-01-22,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_93,7,2765.8,1620.02,Padrão
+P00727,2024-04-16,Mouse,Tecnologia,Mouse,Sudeste,São Paulo,Cliente_35,9,1967.91,1588.85,Expresso
+P00728,2024-06-29,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_169,12,691.19,399.38,Padrão
+P00729,2024-05-30,Cadeira,Móveis,Cadeira,Sudeste,Belo Horizonte,Cliente_106,14,2844.27,1975.86,Econômico
+P00730,2023-11-26,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_262,5,451.89,265.0,Econômico
+P00731,2024-10-12,Agenda,Escritório,Agenda,Nordeste,Salvador,Cliente_124,12,1724.45,1221.94,Econômico
+P00732,2024-03-13,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_242,10,1538.14,1149.74,Econômico
+P00733,2023-05-15,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_129,14,3266.38,2700.62,Padrão
+P00734,2024-03-21,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_145,12,1119.67,902.08,Expresso
+P00735,2023-03-11,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_57,10,2361.19,1537.56,Padrão
+P00736,2023-10-25,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_283,8,2630.53,1807.3,Padrão
+P00737,2023-02-26,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_180,10,2027.29,1187.51,Padrão
+P00738,2024-11-17,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_229,8,3304.35,2066.1,Padrão
+P00739,2023-03-29,Suporte,Acessórios,Suporte,Nordeste,Recife,Cliente_72,13,2006.76,1303.85,Econômico
+P00740,2023-08-06,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_164,4,3476.56,2817.99,Econômico
+P00741,2023-10-02,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_279,4,2971.67,2245.25,Expresso
+P00742,2023-02-26,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_112,2,215.66,150.03,Econômico
+P00743,2024-11-28,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_250,3,1214.6,978.5,Expresso
+P00744,2024-09-30,Fone,Acessórios,Fone,Nordeste,Recife,Cliente_282,13,3015.12,2286.9,Padrão
+P00745,2024-02-01,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_5,12,2811.09,1681.53,Expresso
+P00746,2024-09-30,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_263,14,1097.73,670.2,Expresso
+P00747,2024-09-11,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_26,5,1318.04,807.58,Econômico
+P00748,2024-04-05,Teclado,Tecnologia,Teclado,Sudeste,São Paulo,Cliente_151,13,534.9,452.2,Expresso
+P00749,2024-02-13,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_90,4,2938.36,2328.86,Econômico
+P00750,2023-10-11,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_99,12,1422.55,1053.21,Econômico
+P00751,2024-08-12,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_75,7,3295.84,2481.72,Padrão
+P00752,2023-11-03,Cadeira,Móveis,Cadeira,Sudeste,Belo Horizonte,Cliente_74,8,2203.59,1822.59,Expresso
+P00753,2024-06-05,Teclado,Tecnologia,Teclado,Sul,Curitiba,Cliente_4,5,1408.96,877.33,Expresso
+P00754,2023-11-05,Cadeira,Móveis,Cadeira,Nordeste,Recife,Cliente_146,4,2208.48,1638.94,Expresso
+P00755,2024-02-29,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_255,7,973.48,708.61,Econômico
+P00756,2024-05-27,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_167,12,821.75,523.27,Padrão
+P00757,2023-03-31,Monitor,Tecnologia,Monitor,Nordeste,Fortaleza,Cliente_49,8,2049.91,1671.3,Padrão
+P00758,2023-08-03,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_49,1,1002.45,727.37,Expresso
+P00759,2024-12-28,Armário,Móveis,Armário,Nordeste,Fortaleza,Cliente_177,8,1101.29,775.69,Padrão
+P00760,2024-02-24,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_195,11,1609.97,1114.96,Padrão
+P00761,2023-11-07,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_196,2,1692.35,965.7,Expresso
+P00762,2024-10-29,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_16,6,1960.76,1110.54,Econômico
+P00763,2024-02-06,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_206,5,3005.35,1927.84,Padrão
+P00764,2024-06-29,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_194,9,598.32,388.8,Econômico
+P00765,2024-01-29,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_10,9,643.49,525.95,Padrão
+P00766,2023-01-30,Agenda,Escritório,Agenda,Sudeste,São Paulo,Cliente_213,12,3365.72,2493.24,Econômico
+P00767,2023-10-23,Notebook,Tecnologia,Notebook,Sudeste,Rio de Janeiro,Cliente_166,9,677.0,456.52,Expresso
+P00768,2024-03-21,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_221,1,409.53,300.13,Expresso
+P00769,2023-03-12,Monitor,Tecnologia,Monitor,Sul,Porto Alegre,Cliente_219,10,1793.6,1475.53,Econômico
+P00770,2024-11-24,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_25,14,1791.18,1228.47,Econômico
+P00771,2023-07-12,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_237,6,3333.46,2657.08,Expresso
+P00772,2023-02-24,Cadeira,Móveis,Cadeira,Nordeste,Salvador,Cliente_172,8,557.73,380.3,Econômico
+P00773,2024-05-11,Cadeira,Móveis,Cadeira,Centro-Oeste,Brasília,Cliente_87,7,1387.32,870.7,Econômico
+P00774,2024-07-07,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_42,3,2385.37,1719.98,Expresso
+P00775,2024-06-12,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_246,2,1585.8,1201.84,Expresso
+P00776,2023-07-23,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_196,4,3421.55,2757.75,Econômico
+P00777,2023-07-29,Monitor,Tecnologia,Monitor,Nordeste,Recife,Cliente_17,5,1812.78,1535.58,Padrão
+P00778,2023-09-22,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_271,1,3137.13,1752.66,Econômico
+P00779,2024-03-08,Caneta,Escritório,Caneta,Nordeste,Fortaleza,Cliente_109,13,2838.73,1764.23,Econômico
+P00780,2023-01-27,Armário,Móveis,Armário,Nordeste,Fortaleza,Cliente_220,14,653.58,460.03,Padrão
+P00781,2023-06-11,Agenda,Escritório,Agenda,Sudeste,São Paulo,Cliente_38,2,3040.57,2204.21,Expresso
+P00782,2024-08-16,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_220,14,452.99,330.63,Padrão
+P00783,2024-12-18,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_150,9,3113.76,1862.62,Expresso
+P00784,2023-05-15,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_185,4,2879.7,1703.89,Expresso
+P00785,2024-10-19,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_74,10,1096.95,924.15,Expresso
+P00786,2024-05-17,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_119,14,29.42,23.69,Padrão
+P00787,2023-03-19,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_178,10,988.37,660.85,Econômico
+P00788,2023-11-28,Armário,Móveis,Armário,Nordeste,Recife,Cliente_93,6,3337.51,1908.39,Econômico
+P00789,2023-02-21,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_134,4,331.69,253.61,Expresso
+P00790,2024-04-30,Monitor,Tecnologia,Monitor,Sul,Curitiba,Cliente_4,11,1791.79,1060.37,Expresso
+P00791,2024-04-23,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_56,5,256.77,165.63,Econômico
+P00792,2024-02-24,Mochila,Acessórios,Mochila,Centro-Oeste,Goiânia,Cliente_232,14,63.84,47.45,Econômico
+P00793,2023-12-14,Papel A4,Escritório,Papel A4,Sudeste,Rio de Janeiro,Cliente_171,9,2726.46,1684.27,Expresso
+P00794,2024-01-31,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_216,7,3020.5,2400.77,Econômico
+P00795,2024-06-08,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_120,9,383.37,276.29,Padrão
+P00796,2024-12-30,Notebook,Tecnologia,Notebook,Centro-Oeste,Goiânia,Cliente_11,13,27.23,17.1,Padrão
+P00797,2024-06-26,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_75,10,2506.32,1712.79,Econômico
+P00798,2024-04-08,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_199,9,453.65,338.31,Expresso
+P00799,2023-06-15,Notebook,Tecnologia,Notebook,Nordeste,Recife,Cliente_130,13,1078.35,794.02,Padrão
+P00800,2023-10-16,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_278,13,1758.43,1370.58,Padrão
+P00801,2024-04-23,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_138,6,316.73,256.51,Expresso
+P00802,2023-12-24,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_163,2,786.74,457.07,Padrão
+P00803,2023-04-02,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_181,9,949.66,781.76,Expresso
+P00804,2023-05-08,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_7,11,1118.79,823.94,Padrão
+P00805,2023-08-12,Papel A4,Escritório,Papel A4,Nordeste,Recife,Cliente_154,5,3301.58,2420.43,Expresso
+P00806,2023-01-03,Papel A4,Escritório,Papel A4,Centro-Oeste,Brasília,Cliente_64,6,2244.1,1463.8,Econômico
+P00807,2024-07-04,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_223,10,280.86,173.26,Padrão
+P00808,2023-10-18,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_159,2,3080.05,2169.18,Expresso
+P00809,2023-07-29,Notebook,Tecnologia,Notebook,Nordeste,Recife,Cliente_126,4,159.02,104.74,Econômico
+P00810,2024-02-19,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_10,2,1633.4,1282.68,Padrão
+P00811,2024-01-24,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_218,6,3200.29,2702.05,Econômico
+P00812,2023-09-28,Notebook,Tecnologia,Notebook,Sul,Porto Alegre,Cliente_123,12,218.69,142.78,Econômico
+P00813,2023-05-29,Mochila,Acessórios,Mochila,Nordeste,Fortaleza,Cliente_155,13,1582.65,1088.53,Padrão
+P00814,2024-08-31,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_117,6,2939.16,2389.94,Expresso
+P00815,2023-09-21,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_58,6,2875.37,2237.06,Padrão
+P00816,2024-05-16,Caneta,Escritório,Caneta,Sudeste,São Paulo,Cliente_80,9,337.91,262.55,Econômico
+P00817,2024-09-05,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_166,7,1400.14,822.52,Expresso
+P00818,2024-08-24,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_29,9,1008.52,855.66,Expresso
+P00819,2024-10-08,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_42,8,2601.06,1957.48,Econômico
+P00820,2024-08-21,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_153,9,2662.15,1959.14,Padrão
+P00821,2024-05-20,Teclado,Tecnologia,Teclado,Sul,Curitiba,Cliente_82,10,2171.63,1703.51,Expresso
+P00822,2023-07-28,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_251,8,1015.75,753.82,Econômico
+P00823,2023-11-27,Monitor,Tecnologia,Monitor,Sudeste,Rio de Janeiro,Cliente_216,9,599.43,457.77,Padrão
+P00824,2024-06-19,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_28,1,70.97,58.65,Expresso
+P00825,2024-12-30,Teclado,Tecnologia,Teclado,Sul,Curitiba,Cliente_115,9,1240.71,992.33,Expresso
+P00826,2023-06-27,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_215,11,1037.03,662.08,Expresso
+P00827,2024-08-13,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_2,1,3137.44,1822.99,Econômico
+P00828,2023-01-28,Agenda,Escritório,Agenda,Centro-Oeste,Goiânia,Cliente_1,4,1596.03,1330.64,Expresso
+P00829,2024-08-17,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_65,9,2019.55,1422.64,Econômico
+P00830,2023-12-22,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_164,11,2573.08,2063.62,Econômico
+P00831,2024-01-19,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_103,2,1889.72,1423.22,Expresso
+P00832,2023-08-31,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_73,5,1519.82,1068.67,Expresso
+P00833,2023-04-09,Cadeira,Móveis,Cadeira,Sudeste,Rio de Janeiro,Cliente_2,4,43.81,30.23,Expresso
+P00834,2024-01-26,Teclado,Tecnologia,Teclado,Nordeste,Salvador,Cliente_270,2,1352.26,999.58,Expresso
+P00835,2023-03-10,Suporte,Acessórios,Suporte,Sudeste,São Paulo,Cliente_137,10,3277.89,2727.95,Econômico
+P00836,2023-04-24,Monitor,Tecnologia,Monitor,Centro-Oeste,Goiânia,Cliente_143,9,964.58,531.59,Padrão
+P00837,2023-06-21,Fone,Acessórios,Fone,Sudeste,Belo Horizonte,Cliente_231,13,1062.46,730.25,Expresso
+P00838,2024-12-22,Armário,Móveis,Armário,Nordeste,Recife,Cliente_255,14,625.38,352.63,Padrão
+P00839,2023-04-02,Mochila,Acessórios,Mochila,Sudeste,Rio de Janeiro,Cliente_52,13,942.79,706.02,Econômico
+P00840,2023-08-22,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_32,6,3459.95,2260.36,Econômico
+P00841,2023-09-10,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_286,12,2740.42,1674.74,Econômico
+P00842,2023-10-27,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_163,14,1810.68,1380.98,Expresso
+P00843,2023-02-16,Papel A4,Escritório,Papel A4,Sul,Curitiba,Cliente_130,6,217.06,127.22,Padrão
+P00844,2024-11-13,Mouse,Tecnologia,Mouse,Sudeste,Rio de Janeiro,Cliente_162,10,2485.87,1913.03,Econômico
+P00845,2023-01-26,Armário,Móveis,Armário,Nordeste,Recife,Cliente_126,6,1881.1,1596.81,Econômico
+P00846,2024-03-25,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_11,1,3105.35,2090.78,Expresso
+P00847,2023-10-05,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_181,4,345.59,191.8,Expresso
+P00848,2023-11-25,Mesa,Móveis,Mesa,Nordeste,Fortaleza,Cliente_115,13,1133.66,795.62,Econômico
+P00849,2023-01-26,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_27,8,2420.47,2017.82,Padrão
+P00850,2023-08-17,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_97,7,2617.54,1553.92,Expresso
+P00851,2024-11-19,Suporte,Acessórios,Suporte,Nordeste,Recife,Cliente_282,12,1243.99,848.47,Econômico
+P00852,2023-04-27,Armário,Móveis,Armário,Sudeste,São Paulo,Cliente_286,11,1579.34,1099.8,Padrão
+P00853,2024-01-04,Mochila,Acessórios,Mochila,Nordeste,Salvador,Cliente_134,10,1556.43,917.05,Padrão
+P00854,2024-03-21,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_186,2,2060.1,1437.35,Padrão
+P00855,2023-10-05,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_51,10,1875.03,1386.52,Expresso
+P00856,2024-05-15,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_183,9,2187.88,1496.65,Expresso
+P00857,2023-02-03,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_291,9,3244.52,2475.98,Padrão
+P00858,2024-05-11,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_210,11,2339.1,1486.78,Expresso
+P00859,2023-05-09,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_91,3,874.18,668.98,Expresso
+P00860,2023-01-24,Mouse,Tecnologia,Mouse,Centro-Oeste,Brasília,Cliente_99,9,1171.58,731.64,Padrão
+P00861,2024-10-16,Suporte,Acessórios,Suporte,Nordeste,Recife,Cliente_42,14,2962.83,2194.21,Econômico
+P00862,2024-06-26,Caneta,Escritório,Caneta,Sudeste,Belo Horizonte,Cliente_232,2,955.62,811.7,Padrão
+P00863,2024-05-16,Teclado,Tecnologia,Teclado,Sul,Porto Alegre,Cliente_294,9,129.67,76.05,Expresso
+P00864,2024-07-09,Notebook,Tecnologia,Notebook,Sudeste,São Paulo,Cliente_28,11,3316.09,2228.21,Econômico
+P00865,2023-09-05,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_214,4,770.32,611.72,Expresso
+P00866,2024-12-28,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_161,11,656.47,472.81,Expresso
+P00867,2024-01-12,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_130,12,1886.92,1322.33,Econômico
+P00868,2023-12-07,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_20,5,2882.85,1597.05,Expresso
+P00869,2024-03-29,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_169,9,1771.21,1380.73,Econômico
+P00870,2024-01-06,Papel A4,Escritório,Papel A4,Sudeste,Belo Horizonte,Cliente_291,5,3055.93,2242.86,Padrão
+P00871,2024-04-12,Mouse,Tecnologia,Mouse,Sul,Curitiba,Cliente_69,13,129.07,75.62,Padrão
+P00872,2023-11-28,Monitor,Tecnologia,Monitor,Centro-Oeste,Goiânia,Cliente_205,4,1920.94,1108.08,Econômico
+P00873,2024-10-10,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_178,14,934.18,758.96,Econômico
+P00874,2023-07-27,Suporte,Acessórios,Suporte,Centro-Oeste,Goiânia,Cliente_169,4,356.31,225.28,Padrão
+P00875,2023-11-07,Fone,Acessórios,Fone,Sudeste,Rio de Janeiro,Cliente_16,7,1474.24,830.52,Expresso
+P00876,2023-06-02,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_277,7,2989.05,2165.26,Econômico
+P00877,2024-11-23,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_77,10,1884.2,1259.13,Padrão
+P00878,2024-12-01,Caneta,Escritório,Caneta,Sul,Curitiba,Cliente_17,7,1948.57,1415.39,Expresso
+P00879,2023-07-21,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_11,2,1182.48,688.26,Expresso
+P00880,2023-09-29,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_227,14,1088.67,610.25,Padrão
+P00881,2023-10-15,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_297,1,2359.82,1530.64,Padrão
+P00882,2023-09-16,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_103,2,286.65,214.76,Econômico
+P00883,2023-01-26,Papel A4,Escritório,Papel A4,Sudeste,Rio de Janeiro,Cliente_121,13,2602.14,1471.99,Padrão
+P00884,2024-09-09,Mesa,Móveis,Mesa,Nordeste,Recife,Cliente_224,10,1512.52,917.64,Econômico
+P00885,2023-07-06,Mesa,Móveis,Mesa,Centro-Oeste,Goiânia,Cliente_288,13,2049.8,1579.22,Padrão
+P00886,2023-07-01,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_86,9,2312.98,1958.49,Expresso
+P00887,2024-05-10,Cadeira,Móveis,Cadeira,Centro-Oeste,Brasília,Cliente_100,11,3498.12,2765.9,Padrão
+P00888,2024-09-17,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_107,11,1328.38,1032.01,Padrão
+P00889,2023-02-28,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_90,4,1448.54,1202.22,Expresso
+P00890,2024-07-15,Caneta,Escritório,Caneta,Nordeste,Salvador,Cliente_118,11,2745.4,1648.43,Padrão
+P00891,2023-03-19,Papel A4,Escritório,Papel A4,Nordeste,Fortaleza,Cliente_75,12,1899.96,1073.66,Expresso
+P00892,2024-01-07,Notebook,Tecnologia,Notebook,Sul,Curitiba,Cliente_151,3,2336.46,1630.95,Econômico
+P00893,2023-04-11,Monitor,Tecnologia,Monitor,Centro-Oeste,Goiânia,Cliente_149,8,1437.78,1216.32,Padrão
+P00894,2023-08-14,Cadeira,Móveis,Cadeira,Centro-Oeste,Brasília,Cliente_6,1,209.69,167.95,Padrão
+P00895,2024-02-11,Armário,Móveis,Armário,Centro-Oeste,Goiânia,Cliente_135,12,707.96,457.09,Padrão
+P00896,2023-12-10,Fone,Acessórios,Fone,Centro-Oeste,Goiânia,Cliente_262,1,74.62,49.1,Expresso
+P00897,2024-12-15,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_214,6,2743.95,2280.9,Padrão
+P00898,2024-01-15,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_199,12,748.39,427.89,Expresso
+P00899,2024-01-14,Mouse,Tecnologia,Mouse,Nordeste,Recife,Cliente_210,10,334.66,279.22,Padrão
+P00900,2023-09-18,Mesa,Móveis,Mesa,Sul,Curitiba,Cliente_286,5,1415.38,927.37,Expresso
+P00901,2023-04-02,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_190,5,2798.62,2133.02,Expresso
+P00902,2023-12-30,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_112,2,3346.54,1911.28,Econômico
+P00903,2023-09-07,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_83,3,1764.05,1173.32,Expresso
+P00904,2024-02-07,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_58,7,3220.88,1863.13,Econômico
+P00905,2024-09-11,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_281,13,2795.02,2141.08,Expresso
+P00906,2023-05-27,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_255,8,422.31,281.51,Econômico
+P00907,2023-04-15,Agenda,Escritório,Agenda,Sul,Curitiba,Cliente_258,10,1666.01,1176.04,Padrão
+P00908,2023-12-15,Armário,Móveis,Armário,Nordeste,Salvador,Cliente_225,11,1238.02,1025.72,Padrão
+P00909,2023-08-24,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_127,6,1288.69,1034.95,Econômico
+P00910,2024-12-09,Agenda,Escritório,Agenda,Sudeste,Belo Horizonte,Cliente_273,4,742.14,534.82,Padrão
+P00911,2023-07-18,Mochila,Acessórios,Mochila,Sul,Porto Alegre,Cliente_84,9,516.89,344.68,Padrão
+P00912,2023-10-05,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_139,7,2463.51,1629.65,Expresso
+P00913,2023-12-14,Agenda,Escritório,Agenda,Sudeste,Rio de Janeiro,Cliente_296,6,1988.3,1394.14,Padrão
+P00914,2024-01-09,Suporte,Acessórios,Suporte,Centro-Oeste,Brasília,Cliente_221,1,3112.47,2163.65,Econômico
+P00915,2023-04-25,Monitor,Tecnologia,Monitor,Sudeste,São Paulo,Cliente_121,13,2028.61,1509.93,Econômico
+P00916,2023-08-21,Monitor,Tecnologia,Monitor,Sudeste,Belo Horizonte,Cliente_195,14,1559.33,1170.43,Expresso
+P00917,2023-06-13,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_39,1,3426.64,2281.84,Econômico
+P00918,2023-06-29,Mesa,Móveis,Mesa,Nordeste,Salvador,Cliente_235,8,2673.31,2192.36,Expresso
+P00919,2023-07-11,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_103,11,2448.57,1543.76,Expresso
+P00920,2024-04-01,Suporte,Acessórios,Suporte,Nordeste,Fortaleza,Cliente_233,10,1574.81,1077.56,Padrão
+P00921,2023-05-10,Notebook,Tecnologia,Notebook,Nordeste,Fortaleza,Cliente_141,4,2972.72,2443.0,Expresso
+P00922,2024-06-28,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_276,11,2219.79,1556.19,Padrão
+P00923,2024-10-26,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_85,8,2130.22,1604.57,Econômico
+P00924,2023-10-26,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_99,11,389.74,234.66,Expresso
+P00925,2023-04-29,Agenda,Escritório,Agenda,Sul,Porto Alegre,Cliente_86,3,3471.57,2186.51,Padrão
+P00926,2023-08-26,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_155,1,2433.03,2061.25,Expresso
+P00927,2024-06-11,Fone,Acessórios,Fone,Sudeste,São Paulo,Cliente_145,11,2791.07,2023.31,Expresso
+P00928,2024-03-19,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_79,13,3293.6,1858.69,Econômico
+P00929,2024-06-01,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_122,9,2578.67,2035.09,Expresso
+P00930,2023-07-29,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_144,8,1537.53,918.01,Econômico
+P00931,2024-09-24,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_92,6,2576.97,1612.26,Padrão
+P00932,2023-02-15,Papel A4,Escritório,Papel A4,Nordeste,Salvador,Cliente_278,10,458.96,325.34,Expresso
+P00933,2023-04-14,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_161,5,1896.39,1594.19,Expresso
+P00934,2023-11-14,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_23,2,3489.04,2369.41,Padrão
+P00935,2024-02-22,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_113,13,1431.89,805.18,Padrão
+P00936,2023-08-07,Teclado,Tecnologia,Teclado,Sul,Curitiba,Cliente_177,4,2464.09,1985.05,Expresso
+P00937,2023-10-17,Caneta,Escritório,Caneta,Nordeste,Recife,Cliente_145,6,3391.93,2592.07,Padrão
+P00938,2023-03-24,Mochila,Acessórios,Mochila,Centro-Oeste,Brasília,Cliente_262,3,1699.08,1251.83,Padrão
+P00939,2023-05-09,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_49,1,2121.2,1356.88,Econômico
+P00940,2024-08-27,Monitor,Tecnologia,Monitor,Centro-Oeste,Brasília,Cliente_94,9,525.38,371.6,Expresso
+P00941,2024-03-27,Teclado,Tecnologia,Teclado,Sul,Porto Alegre,Cliente_228,11,145.16,108.51,Econômico
+P00942,2024-01-31,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_290,5,202.12,158.63,Expresso
+P00943,2023-11-09,Agenda,Escritório,Agenda,Sudeste,Rio de Janeiro,Cliente_75,13,2620.38,1605.84,Padrão
+P00944,2024-08-15,Agenda,Escritório,Agenda,Sudeste,Rio de Janeiro,Cliente_124,13,670.44,382.15,Expresso
+P00945,2024-07-26,Caneta,Escritório,Caneta,Centro-Oeste,Brasília,Cliente_26,5,1950.08,1600.02,Expresso
+P00946,2023-11-20,Teclado,Tecnologia,Teclado,Nordeste,Recife,Cliente_186,11,3111.19,2140.44,Padrão
+P00947,2023-05-07,Notebook,Tecnologia,Notebook,Sudeste,São Paulo,Cliente_193,12,1826.2,1540.91,Expresso
+P00948,2023-12-06,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_52,11,1182.68,835.62,Expresso
+P00949,2024-10-18,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_86,11,1947.82,1072.23,Econômico
+P00950,2024-10-22,Mouse,Tecnologia,Mouse,Nordeste,Recife,Cliente_205,5,680.97,541.79,Padrão
+P00951,2023-02-25,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_228,7,1933.18,1325.59,Econômico
+P00952,2023-12-10,Mouse,Tecnologia,Mouse,Centro-Oeste,Goiânia,Cliente_275,8,961.98,636.01,Econômico
+P00953,2023-04-01,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_141,10,2348.66,1580.86,Econômico
+P00954,2024-09-18,Mouse,Tecnologia,Mouse,Sudeste,Belo Horizonte,Cliente_94,9,1599.78,1024.65,Expresso
+P00955,2023-06-26,Suporte,Acessórios,Suporte,Sul,Porto Alegre,Cliente_57,12,2696.49,2212.67,Expresso
+P00956,2024-03-29,Suporte,Acessórios,Suporte,Sudeste,São Paulo,Cliente_216,2,426.28,250.96,Expresso
+P00957,2024-01-25,Agenda,Escritório,Agenda,Nordeste,Recife,Cliente_22,9,882.39,494.93,Econômico
+P00958,2023-09-10,Mochila,Acessórios,Mochila,Sudeste,Belo Horizonte,Cliente_246,10,719.05,461.42,Expresso
+P00959,2023-09-25,Cadeira,Móveis,Cadeira,Centro-Oeste,Goiânia,Cliente_170,4,1014.73,579.75,Padrão
+P00960,2023-07-03,Agenda,Escritório,Agenda,Nordeste,Fortaleza,Cliente_152,1,3255.68,2716.4,Econômico
+P00961,2023-09-28,Suporte,Acessórios,Suporte,Nordeste,Salvador,Cliente_259,9,1436.63,1082.22,Expresso
+P00962,2023-05-18,Caneta,Escritório,Caneta,Nordeste,Fortaleza,Cliente_57,11,1448.88,1187.47,Padrão
+P00963,2023-03-25,Armário,Móveis,Armário,Nordeste,Recife,Cliente_43,2,1135.76,685.43,Padrão
+P00964,2024-04-11,Caneta,Escritório,Caneta,Sul,Porto Alegre,Cliente_213,5,1050.7,758.27,Econômico
+P00965,2023-10-13,Papel A4,Escritório,Papel A4,Centro-Oeste,Goiânia,Cliente_280,12,2610.66,1554.89,Padrão
+P00966,2024-10-25,Mochila,Acessórios,Mochila,Nordeste,Fortaleza,Cliente_26,7,3008.43,2226.65,Padrão
+P00967,2024-06-24,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_165,1,2638.16,1464.95,Econômico
+P00968,2023-05-18,Mesa,Móveis,Mesa,Nordeste,Recife,Cliente_187,12,2392.4,1464.96,Padrão
+P00969,2023-02-25,Armário,Móveis,Armário,Sul,Porto Alegre,Cliente_253,10,2598.27,1944.96,Padrão
+P00970,2024-01-28,Mesa,Móveis,Mesa,Sudeste,Rio de Janeiro,Cliente_22,8,2613.98,1734.87,Padrão
+P00971,2023-06-17,Cadeira,Móveis,Cadeira,Sudeste,São Paulo,Cliente_45,4,1916.89,1434.68,Econômico
+P00972,2024-10-07,Monitor,Tecnologia,Monitor,Sul,Porto Alegre,Cliente_211,12,473.97,262.47,Padrão
+P00973,2023-06-14,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_125,1,3106.21,2536.7,Econômico
+P00974,2023-08-27,Fone,Acessórios,Fone,Sul,Porto Alegre,Cliente_20,8,332.16,278.5,Padrão
+P00975,2024-08-23,Papel A4,Escritório,Papel A4,Sul,Porto Alegre,Cliente_253,8,580.23,417.15,Expresso
+P00976,2024-09-28,Fone,Acessórios,Fone,Centro-Oeste,Brasília,Cliente_42,10,414.09,298.58,Econômico
+P00977,2023-11-16,Monitor,Tecnologia,Monitor,Nordeste,Fortaleza,Cliente_41,3,1439.47,915.82,Expresso
+P00978,2023-07-10,Agenda,Escritório,Agenda,Centro-Oeste,Brasília,Cliente_9,11,2932.28,2116.21,Econômico
+P00979,2023-12-15,Notebook,Tecnologia,Notebook,Nordeste,Recife,Cliente_14,5,1012.45,797.66,Econômico
+P00980,2024-04-14,Caneta,Escritório,Caneta,Centro-Oeste,Goiânia,Cliente_204,5,3047.69,2257.82,Expresso
+P00981,2024-11-09,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_257,13,1108.24,805.07,Expresso
+P00982,2024-01-15,Notebook,Tecnologia,Notebook,Nordeste,Salvador,Cliente_110,4,3064.12,2548.17,Econômico
+P00983,2023-05-13,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_80,6,454.85,264.71,Expresso
+P00984,2024-10-12,Monitor,Tecnologia,Monitor,Nordeste,Fortaleza,Cliente_284,13,361.19,255.74,Padrão
+P00985,2024-12-17,Suporte,Acessórios,Suporte,Sudeste,Belo Horizonte,Cliente_197,1,2593.37,1758.04,Padrão
+P00986,2023-05-12,Armário,Móveis,Armário,Sudeste,Belo Horizonte,Cliente_54,4,2830.23,1988.53,Padrão
+P00987,2024-08-08,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_278,7,2804.53,2326.75,Padrão
+P00988,2024-08-06,Mesa,Móveis,Mesa,Sul,Porto Alegre,Cliente_15,10,453.03,379.94,Econômico
+P00989,2023-05-19,Fone,Acessórios,Fone,Sul,Curitiba,Cliente_117,2,1378.2,801.88,Expresso
+P00990,2023-07-20,Mochila,Acessórios,Mochila,Sul,Curitiba,Cliente_115,2,441.62,254.21,Expresso
+P00991,2024-09-14,Armário,Móveis,Armário,Centro-Oeste,Brasília,Cliente_145,13,1416.36,1142.33,Expresso
+P00992,2023-04-14,Teclado,Tecnologia,Teclado,Sudeste,Rio de Janeiro,Cliente_75,13,2205.3,1394.98,Expresso
+P00993,2023-02-16,Mesa,Móveis,Mesa,Sudeste,Belo Horizonte,Cliente_13,10,834.05,508.93,Econômico
+P00994,2023-03-26,Mesa,Móveis,Mesa,Centro-Oeste,Brasília,Cliente_182,12,938.63,636.63,Padrão
+P00995,2023-06-05,Suporte,Acessórios,Suporte,Sudeste,Rio de Janeiro,Cliente_105,6,685.05,534.77,Econômico
+P00996,2024-07-03,Mouse,Tecnologia,Mouse,Nordeste,Fortaleza,Cliente_45,14,3302.32,2739.34,Econômico
+P00997,2023-01-20,Suporte,Acessórios,Suporte,Sul,Curitiba,Cliente_239,13,1797.18,1245.65,Padrão
+P00998,2023-07-29,Cadeira,Móveis,Cadeira,Sul,Curitiba,Cliente_281,10,421.6,333.26,Expresso
+P00999,2024-04-09,Teclado,Tecnologia,Teclado,Centro-Oeste,Goiânia,Cliente_228,8,2258.93,1420.31,Econômico
+P01000,2023-05-19,Armário,Móveis,Armário,Sudeste,Rio de Janeiro,Cliente_276,14,1467.93,1237.98,Expresso
