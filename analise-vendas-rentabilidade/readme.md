@@ -4,8 +4,8 @@
 Empresas geram grandes volumes de dados de vendas diariamente, mas nem sempre conseguem transformá-los em informações estratégicas para tomada de decisão.  
 Este projeto simula um cenário real enfrentado por **Analistas de Dados / BI**, onde o objetivo é analisar vendas, custos e logística para **identificar oportunidades de aumento de lucro e eficiência operacional**.
 
----![Projeto](https://github.com/user-attachments/assets/ef29822a-0531-4bfa-8a73-5bc8bc1c896f)
-
+## 📊 Dashboard
+![Projeto](https://github.com/user-attachments/assets/edb4a976-7834-4c45-b8a6-e74a832cd635)
 
 ## 🎯 Objetivo do Projeto
 Transformar dados brutos de vendas em **insights estratégicos**, respondendo perguntas de negócio relacionadas a:
